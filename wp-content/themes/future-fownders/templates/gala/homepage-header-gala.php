@@ -45,10 +45,10 @@
                 </div>
                 <div class="row mb0 min-height">
                     <div class="col s12 m6 min-height right-align mobile-center">
-                        <a class="cta-blue waves-effect waves-light btn-large transparent" href="https://drive.google.com/file/d/0B5qB_Dm257Z5bmVJTG9SWm5PSzA/view">&nbsp;&nbsp;&nbsp;&nbsp;Register Here&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                        <a class="cta-blue waves-effect waves-light btn-large transparent" href="http://future-fownders.dev//">&nbsp;&nbsp;&nbsp;&nbsp;Register Here&nbsp;&nbsp;&nbsp;&nbsp;</a>
                     </div>
                     <div class="col s12 m6 min-height left-align mobile-center">
-                        <a class="cta-org waves-effect waves-light btn-large transparent" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>
+                        <a class="cta-org waves-effect waves-light btn-large transparent" href="http://future-fownders.dev/sponsors/">Become A Sponsor</a>
                     </div>
                 </div>
 <!--                <div class="row mb0">-->
