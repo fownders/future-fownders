@@ -30,7 +30,7 @@
                 </p>
                 <div class="row mb0 p-20">
                     <div class="col s12 left-align mobile-center">
-                        <a class="cta-blue waves-effect waves-light btn-large transparent vivus-3" href="https://drive.google.com/file/d/0B5qB_Dm257Z5bmVJTG9SWm5PSzA/view">&nbsp;&nbsp;&nbsp;&nbsp;Register Here&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                        <a class="cta-blue waves-effect waves-light btn-large transparent" href="https://drive.google.com/file/d/0B5qB_Dm257Z5bmVJTG9SWm5PSzA/view">&nbsp;&nbsp;&nbsp;&nbsp;Register Here&nbsp;&nbsp;&nbsp;&nbsp;</a>
                     </div>
                     <div class="col s12 left-align mobile-center">
                         <a class="cta-org waves-effect waves-light btn-large transparent" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>

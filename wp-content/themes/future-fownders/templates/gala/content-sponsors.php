@@ -16,7 +16,7 @@
                         <h4 class="f-38 brand-text text-uppercase bold-text">Sponsorship Opportunities</h4>
                     </div>
                     <div class="col s12 center-align mobile-center">
-                        <a class="cta-blue waves-effect waves-light btn-large transparent vivus-3" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>
+                        <a class="cta-blue waves-effect waves-light btn-large transparent" target="_blank" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>
                         <br><br><br>
                     </div>
                 </div>
@@ -25,9 +25,6 @@
                         <h3 class="f-32 orange-text-1 text-uppercase">Lead Sponsor</h3>
                         <h3 class="f-32 brand-orange-text text-uppercase">Limited to one sponsor</h3>
                     </div>
-<!--                    <div class="col s12 m6 left-align">-->
-<!--                        <h3 class="f-32 brand-orange-text text-uppercase">Limited to one sponsor</h3>-->
-<!--                    </div>-->
                     <hr class="brand-hr">
                     <div class="col s12 left-align">
                         <h3 class="f-32 grey-text text-uppercase bold-text">$30,000</h3>
@@ -132,7 +129,7 @@
                 </div>
                 <div class="row mb0 p-20">
                     <div class="col s12 center-align mobile-center">
-                        <a class="cta-blue waves-effect waves-light btn-large transparent vivus-3" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>
+                        <a class="cta-blue waves-effect waves-light btn-large transparent" target="_blank" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>
                         <br><br><br>
                     </div>
                 </div>
