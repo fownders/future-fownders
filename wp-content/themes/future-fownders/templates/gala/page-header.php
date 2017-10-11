@@ -6,7 +6,6 @@
  * Time: 11:34 AM
  */
 ?>
-<!--<div class="homepage-header" style="background-image:url(http://www.fownders.co/hubfs/gala.png);background-size:cover;height:100%;background-repeat:no-repeat;background-position: center;padding:0;">-->
 
 <div class="page-header">
     <div class="container">
@@ -32,7 +31,7 @@
                         <p class="f-22 white-text text-uppercase">December 7th, 2017</p>
                     </div>
                     <div class="col s12 m6 left-align">
-                        <p class="f-22 white-text text-uppercase">Brookdale Banquet</p>
+                        <p class="f-22 white-text text-uppercase">Brookside Banquet</p>
                     </div>
                 </div>
             </div>
@@ -58,9 +57,10 @@ if (!empty($coverimage)) { ?>
             background: transparent;
             background-image: url(<?php echo $coverimage; ?>);
             background-image: -webkit-linear-gradient(rgba(0,0, 0,.95),rgba(0,0, 0,.2)),url(<?php echo $coverimage; ?>);
-            background-image: linear-gradient(0deg, rgba(0,92,117,0.03) 52%, #005C75 91%),url(<?php echo $coverimage; ?>);
+            background-image: linear-gradient(-180deg, rgba(0,92,117,0.85) 0%, rgba(0,92,117,0.03) 40%, rgba(0,92,117,0.00) 62%, rgba(0,92,117,0.85) 100%),url(<?php echo $coverimage; ?>);
+            /*background-image: linear-gradient(-180deg, rgba(0,92,117,0.85) 0%, rgba(0,92,117,0.03) 40%, rgba(0,92,117,0.00) 62%, rgba(0,92,117,0.85) 100%);*/
             background-size: cover;
-            background-position: center center !important;
+            background-position: top center !important;
         }
     </style>
 <?php }else { ?>

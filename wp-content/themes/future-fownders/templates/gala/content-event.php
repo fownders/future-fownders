@@ -12,7 +12,7 @@
 <div class="white">
     <div class="container p-40">
         <div class="row mb0">
-            <div class="col s12 left-align">
+            <div class="col s12 m8 left-align">
                 <h3 class="f-32 brand-text text-uppercase bold-text">Future Fownders Welcomes You</h3>
                 <p class="f-21 black-text">
                     Future Fownders is a nonprofit entrepreneurial education program with concentrations for elementary through high school aged students, powered by Fownders. We are approaching our first full year of active in-school programming and we invite you to join us as we come together to highlight the impact and forward facing vision of Future Fownders!<br><br>
@@ -20,10 +20,7 @@
                     We cannot do this alone. Sponsorships and donations made to the nonprofit are crucial in providing Future Fownders with the funding needed to further our mission of educating our youth for the future. With your help, Future Fownders is able to level-up by increasing the number of schools reached and students impacted, expand programming and most importantly, continue to cultivate and inspire our next generation of leaders. Are you in?
                 </p>
             </div>
-        </div>
-        <div class="row mb0 p-20">
-            <div class="col s12 left-align">
-                <br class="hide-on-large-only">
+            <div class="col s12 m3 offset-m1 left-align">
                 <h3 class="f-32 brand-text text-uppercase bold-text">Please Join Us</h3>
                 <p class="f-21 black-text">
                     Brookdale Banquets<br>
@@ -31,6 +28,14 @@
                     Bloomfield, NJ 07003<br>
                     Opening Reception - 6:30pm
                 </p>
+                <div class="row mb0 p-20">
+                    <div class="col s12 left-align mobile-center">
+                        <a class="cta-blue waves-effect waves-light btn-large transparent vivus-3" href="https://drive.google.com/file/d/0B5qB_Dm257Z5bmVJTG9SWm5PSzA/view">&nbsp;&nbsp;&nbsp;&nbsp;Register Here&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                    </div>
+                    <div class="col s12 left-align mobile-center">
+                        <a class="cta-org waves-effect waves-light btn-large transparent" href="http://www.fownders.co/become-a-sponsor">Become A Sponsor</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

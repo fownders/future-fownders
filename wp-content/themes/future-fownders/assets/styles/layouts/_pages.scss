@@ -17,7 +17,8 @@ body {
 .page-id-17 nav#hide-nav,
 .page-id-21 nav#hide-nav,
 .page-id-23 nav#hide-nav,
-.page-id-25 nav#hide-nav {
+.page-id-25 nav#hide-nav,
+.page-id-34 nav#hide-nav {
   display:none !important;
 }
 
@@ -62,7 +63,7 @@ nav ul a{
   font-weight: bold;
   letter-spacing: 0.7px;
   text-align: center;
-  color: #00bff5 !important;
+  //color: #00bff5 !important;
   text-transform: uppercase !important;
 }
 
@@ -474,6 +475,16 @@ ul.f-16.bold-text{
   font-weight:bold !important;
 }
 
+hr.brand-hr {
+  display: block;
+  height: .5px;
+  //border: 0;
+  border-top: .5px solid #008db5 !important;
+  //margin: 1em 0;
+  padding: 0;
+  background: #008db5;
+}
+
 /*@media (max-width: 480px){*/
 /*  .banner-margin, .img-margin{*/
 /*    margin-top: 0 !important;*/
@@ -700,6 +711,12 @@ ul.f-16.bold-text{
   }
   .f-2vw, .f-32 {
     font-size: calc(112.5% + 2.2vw)!important;
+    letter-spacing: 0 !important;
+  }
+
+  nav {
+    height: 40px !important;
+    line-height: 40px !important;
   }
 }
 /*============MOBILE - IPAD & UP================*/

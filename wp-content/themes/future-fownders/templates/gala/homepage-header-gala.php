@@ -10,14 +10,15 @@
 <!--<div class="homepage-header" style="background-image:url(http://www.fownders.co/hubfs/gala.png);background-size:cover;height:100%;background-repeat:no-repeat;background-position: center;padding:0;">-->
     <div class="page-header">
         <div class="container">
-            <div class="row mb0">
-                <div class="col s12 center">
-            <div class="flex-container-center">
+<!--            <div class="row mb0">-->
+<!--                <div class="col s12 center">-->
+            <div class="flex-container-center p-40">
                 <div class="flex-col-100">
 <!--                    <div id="gala-wht"></div>-->
 
                     <div class="relative-container mb0 hide-on-small-and-down">
-                        <img class="relative-top vivus-bg mb0" src="http://www.fownders.co/hubfs/gala-wht.svg" width="462px" height="365px">
+<!--                        <img class="relative-top vivus-bg mb0" src="http://www.fownders.co/hubfs/gala-wht.svg" width="462px" height="365px">-->
+                        <img class="relative-top vivus-bg mb0" src="http://www.fownders.co/hubfs/future-fownders-gala.png" width="532px" height="395px">
                         <svg class="relative-bottom bg" width="462px" height="365px" viewBox="0 0 462 365" id="gala-logo">
                             <g>
                                 <path data-start="40" data-duration="10" fill="none" stroke="#ffffff" stroke-width="2" d="M156.5,234.4c11.8,0,23.8-4.5,35-11.2c16.5-26.6,35.3-49,43.7-49c1.7,0,2.8,1.1,2.8,3.9   c0,5.3-13.4,23-32.2,37.5l-18.2,36.1c-1.7,3.1-3.1,6.4-5,9.5c22.7-13.7,33.6-21.6,52.1-45.6l1.1,1.1c-19.3,25.2-30.5,33-55.4,48.2   c-19,31.6-49.6,62.2-63.6,62.2c-3.1,0-5.9-2-5.9-5c0-17.9,33.9-38.1,54-50.1c3.9-6.7,7.3-13.7,10.9-20.7   c4.2-8.4,8.7-16.8,13.7-24.9c-10.6,5.9-21.8,9.8-33,9.8c-18.5,0-30.2-14-30.8-29.1c-2.2,0-4.2,0.3-6.4,0.3c-33,0-65-14-65-57.7   c0-57.1,66.4-112.3,124.3-112.3c31.6,0,53.5,17.4,53.5,44.8c0,3.6-0.6,7.6-1.1,10.9c5-1.7,9.5-2.5,12.9-2.5   c10.4,0,18.5,8.4,18.5,18.8c0,34.2-63.6,88.2-126.3,96.9C136.1,223.2,142,234.4,156.5,234.4z M229.3,93.5c0.8-3.6,1.1-7.6,1.1-11.5   c0-26.3-21-43.1-51.8-43.1c-59.9,0-120.4,61.9-120.4,112.8c0,43.4,29.1,53.8,61,53.8c2.2,0,4.2-0.3,6.4-0.3   C126.3,154,193.2,105.8,229.3,93.5z M112.6,322c0,2,1.7,3.4,4.2,3.4c11.8,0,29.7-21.8,45.9-49.8C140.5,288.7,112.6,306.3,112.6,322   z M260.7,109.2c0-9.2-7.6-17.1-16.8-17.1c-3.9,0-8.4,1.1-13.2,2.8c-5.3,23.5-24.9,40.9-42.6,49.3l-0.6-1.7   c16.8-8.1,35.6-24.9,41.2-47c-36.4,14.3-91.6,71.4-92.7,108.9C198.2,195.7,260.7,142,260.7,109.2z M236.3,178.1   c0-1.7-0.6-2.2-1.1-2.2c-6.4,0-18.2,13.4-27.4,35.8C224.5,198,236.3,182.3,236.3,178.1z" />
@@ -32,7 +33,7 @@
 
                     <!--MOBILE ANIMATION-->
                     <div class="relative-container mb0 hide-on-med-and-up">
-                        <img class="relative-top vivus-bg mb0" src="http://www.fownders.co/hubfs/gala-wht.svg" width="262px" height="365px">
+                        <img class="relative-top vivus-bg mb0" src="http://www.fownders.co/hubfs/future-fownders-gala.png" width="262px" height="365px">
                         <svg class="relative-bottom bg" width="262px" height="365px" viewBox="0 0 262 365" id="gala-logo">
                             <g>
                                 <path data-start="40" data-duration="10" fill="none" stroke="#ffffff" stroke-width="2" d="M156.5,234.4c11.8,0,23.8-4.5,35-11.2c16.5-26.6,35.3-49,43.7-49c1.7,0,2.8,1.1,2.8,3.9   c0,5.3-13.4,23-32.2,37.5l-18.2,36.1c-1.7,3.1-3.1,6.4-5,9.5c22.7-13.7,33.6-21.6,52.1-45.6l1.1,1.1c-19.3,25.2-30.5,33-55.4,48.2   c-19,31.6-49.6,62.2-63.6,62.2c-3.1,0-5.9-2-5.9-5c0-17.9,33.9-38.1,54-50.1c3.9-6.7,7.3-13.7,10.9-20.7   c4.2-8.4,8.7-16.8,13.7-24.9c-10.6,5.9-21.8,9.8-33,9.8c-18.5,0-30.2-14-30.8-29.1c-2.2,0-4.2,0.3-6.4,0.3c-33,0-65-14-65-57.7   c0-57.1,66.4-112.3,124.3-112.3c31.6,0,53.5,17.4,53.5,44.8c0,3.6-0.6,7.6-1.1,10.9c5-1.7,9.5-2.5,12.9-2.5   c10.4,0,18.5,8.4,18.5,18.8c0,34.2-63.6,88.2-126.3,96.9C136.1,223.2,142,234.4,156.5,234.4z M229.3,93.5c0.8-3.6,1.1-7.6,1.1-11.5   c0-26.3-21-43.1-51.8-43.1c-59.9,0-120.4,61.9-120.4,112.8c0,43.4,29.1,53.8,61,53.8c2.2,0,4.2-0.3,6.4-0.3   C126.3,154,193.2,105.8,229.3,93.5z M112.6,322c0,2,1.7,3.4,4.2,3.4c11.8,0,29.7-21.8,45.9-49.8C140.5,288.7,112.6,306.3,112.6,322   z M260.7,109.2c0-9.2-7.6-17.1-16.8-17.1c-3.9,0-8.4,1.1-13.2,2.8c-5.3,23.5-24.9,40.9-42.6,49.3l-0.6-1.7   c16.8-8.1,35.6-24.9,41.2-47c-36.4,14.3-91.6,71.4-92.7,108.9C198.2,195.7,260.7,142,260.7,109.2z M236.3,178.1   c0-1.7-0.6-2.2-1.1-2.2c-6.4,0-18.2,13.4-27.4,35.8C224.5,198,236.3,182.3,236.3,178.1z" />
@@ -47,36 +48,35 @@
                 </div>
             </div>
 
-            <div class="row mb0" style=" margin-top: -5%;">
-                <div class="col s12 center min-height">
-                    <img class="vivus-2" src="http://www.fownders.co/hubfs/Screen%20Shot%202017-10-05%20at%208.38.08%20AM.png" height="50" width="100">
-                </div>
-            </div>
+<!--            <div class="row mb0" style=" margin-top: -5%;">-->
+<!--                <div class="col s12 center min-height">-->
+<!--                    <img class="vivus-2" src="http://www.fownders.co/hubfs/Screen%20Shot%202017-10-05%20at%208.38.08%20AM.png" height="50" width="100">-->
+<!--                </div>-->
+<!--            </div>-->
 
             <div class="row mb0 p-20">
                 <div class="col s12 min-height">
-                    <div class="row mb0">
+                    <div class="row mb0 p-20">
                         <div class="col s12 m6 right-align mobile-center">
                             <p class="f-22 white-text text-uppercase vivus-3">December 7th, 2017</p>
                         </div>
                         <div class="col s12 m6 left-align mobile-center">
-                            <p class="f-22 white-text text-uppercase vivus-3">Brookdale Banquet</p>
+                            <p class="f-22 white-text text-uppercase vivus-3">Brookside Banquet</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row mb0 p-20">
+            <div class="row mb0">
                 <div class="col s12 center min-height">
                     <a class="cta-clear waves-effect waves-light btn-large transparent vivus-3" href="http://future-fownders.dev/our-event/">Enter</a>
-<!--                    <a href="http://future-fownders.dev/our-event/" class="cta-circle btn-floating btn-large waves-effect waves-light transparent vivus-3"><i class="material-icons">keyboard_arrow_up</i></a>-->
                 </div>
             </div>
 
 
         </div>
     </div>
-</div>
-</div>
+<!--</div>-->
+<!--</div>-->
 
 
 <?php $coverimage = wp_get_attachment_url( get_post_thumbnail_id( $post->ID ) );
@@ -94,8 +94,8 @@ if (!empty($coverimage)) { ?>
         .page-header {
             /*background: transparent;*/
             background-image: url(<?php echo $coverimage; ?>);
-/*            background-image: -webkit-linear-gradient(rgba(0,42, 54,.75),rgba(0,42, 54,.75)),url(*/<?php //echo $coverimage; ?>/*);*/
-/*            background-image: linear-gradient(rgba(0,42, 54,.85),rgba(0,42, 54,.85)),url(*/<?php //echo $coverimage; ?>/*);*/
+            background-image: -webkit-linear-gradient(rgba(0,0, 0,.75),rgba(0,0, 0,.25)),url(<?php echo $coverimage; ?>);
+            background-image: linear-gradient(rgba(0,0, 0,.75),rgba(0,0, 0,.25)),url(<?php echo $coverimage; ?>);
             background-size: cover;
             background-position: center center !important;
         }

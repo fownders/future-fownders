@@ -26,86 +26,86 @@
         var map = new google.maps.Map(document.getElementById('map'), {
             zoom: 17,
             center: uluru,
-            styles: [
-                {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
-                {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
-                {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
-                {
-                    featureType: 'administrative.locality',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#f16023'}]
-                },
-                {
-                    featureType: 'poi',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#f89039'}]
-                },
-                {
-                    featureType: 'poi.park',
-                    elementType: 'geometry',
-                    stylers: [{color: '#a5acaf'}]
-                },
-                {
-                    featureType: 'poi.park',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#6b7072'}]
-                },
-                {
-                    featureType: 'road',
-                    elementType: 'geometry',
-                    stylers: [{color: '#005c75'}]
-                },
-                {
-                    featureType: 'road',
-                    elementType: 'geometry.stroke',
-                    stylers: [{color: '#005c75'}]
-                },
-                {
-                    featureType: 'road',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#9ca5b3'}]
-                },
-                {
-                    featureType: 'road.highway',
-                    elementType: 'geometry',
-                    stylers: [{color: '#746855'}]
-                },
-                {
-                    featureType: 'road.highway',
-                    elementType: 'geometry.stroke',
-                    stylers: [{color: '#1f2835'}]
-                },
-                {
-                    featureType: 'road.highway',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#f3d19c'}]
-                },
-                {
-                    featureType: 'transit',
-                    elementType: 'geometry',
-                    stylers: [{color: '#2f3948'}]
-                },
-                {
-                    featureType: 'transit.station',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#d59563'}]
-                },
-                {
-                    featureType: 'water',
-                    elementType: 'geometry',
-                    stylers: [{color: '#17263c'}]
-                },
-                {
-                    featureType: 'water',
-                    elementType: 'labels.text.fill',
-                    stylers: [{color: '#515c6d'}]
-                },
-                {
-                    featureType: 'water',
-                    elementType: 'labels.text.stroke',
-                    stylers: [{color: '#17263c'}]
-                }
-            ]
+//            styles: [
+//                {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
+//                {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
+//                {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
+//                {
+//                    featureType: 'administrative.locality',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#f16023'}]
+//                },
+//                {
+//                    featureType: 'poi',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#f89039'}]
+//                },
+//                {
+//                    featureType: 'poi.park',
+//                    elementType: 'geometry',
+//                    stylers: [{color: '#a5acaf'}]
+//                },
+//                {
+//                    featureType: 'poi.park',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#6b7072'}]
+//                },
+//                {
+//                    featureType: 'road',
+//                    elementType: 'geometry',
+//                    stylers: [{color: '#005c75'}]
+//                },
+//                {
+//                    featureType: 'road',
+//                    elementType: 'geometry.stroke',
+//                    stylers: [{color: '#005c75'}]
+//                },
+//                {
+//                    featureType: 'road',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#9ca5b3'}]
+//                },
+//                {
+//                    featureType: 'road.highway',
+//                    elementType: 'geometry',
+//                    stylers: [{color: '#746855'}]
+//                },
+//                {
+//                    featureType: 'road.highway',
+//                    elementType: 'geometry.stroke',
+//                    stylers: [{color: '#1f2835'}]
+//                },
+//                {
+//                    featureType: 'road.highway',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#f3d19c'}]
+//                },
+//                {
+//                    featureType: 'transit',
+//                    elementType: 'geometry',
+//                    stylers: [{color: '#2f3948'}]
+//                },
+//                {
+//                    featureType: 'transit.station',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#d59563'}]
+//                },
+//                {
+//                    featureType: 'water',
+//                    elementType: 'geometry',
+//                    stylers: [{color: '#17263c'}]
+//                },
+//                {
+//                    featureType: 'water',
+//                    elementType: 'labels.text.fill',
+//                    stylers: [{color: '#515c6d'}]
+//                },
+//                {
+//                    featureType: 'water',
+//                    elementType: 'labels.text.stroke',
+//                    stylers: [{color: '#17263c'}]
+//                }
+//            ]
         });
         var marker = new google.maps.Marker({
             position: uluru,
@@ -115,24 +115,22 @@
         var contentString = '<div id="content" class="center-align">'+
             '<div id="siteNotice">'+
             '</div>'+
-            '<h3 id="firstHeading" class="f-18 brand-text">Brookside Banquets</h3>'+
+            '<h3 id="firstHeading" class="f-16 brand-text center-align">Brookside Banquets</h3>'+
             '<div id="bodyContent center-align">'+
-            '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large </p>'+
-            '<p>Attribution: Uluru, <a target="_blank" href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">Brookside Banquets Website</a>'+
-//            'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
-            '(last visited June 22, 2009).</p>'+
+            '<p> 41 Broughton Avenue <br> Bloomfield, New Jersey 07003'+
+            '<br>Website: <a target="_blank" href="http://thebrooksidebanquets.com/">Brookside Banquets</a></p>'+
             '</div>'+
             '</div>';
 
         var infowindow = new google.maps.InfoWindow({
             content: contentString,
-            maxWidth: 200
+            maxWidth: 180
         });
 
         var marker = new google.maps.Marker({
             position: uluru,
             map: map,
-            title: 'Uluru (Ayers Rock)'
+            title: 'Brookside Banquets'
         });
         marker.addListener('click', function() {
             infowindow.open(map, marker);
