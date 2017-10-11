@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/donate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/location.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/.idea/workspace.xml" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-location.php" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-location.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-registration.php" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-registration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-sponsors.php" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-sponsors.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,15 +57,15 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="337" column="7" lean-forward="true" selection-start-line="329" selection-start-column="0" selection-end-line="337" selection-end-column="7" />
+            <state relative-caret-position="190">
+              <caret line="193" column="45" lean-forward="false" selection-start-line="193" selection-start-column="45" selection-end-line="193" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1507764073000" expanded="true" signature="3950:4247" ph="..." />
-                <marker date="1507764073000" expanded="true" signature="3978:4240" ph="..." />
-                <marker date="1507764073000" expanded="true" signature="4008:4229" ph="..." />
+                <marker date="1507764299000" expanded="true" signature="1591:1888" ph="..." />
+                <marker date="1507764299000" expanded="true" signature="1619:1881" ph="..." />
+                <marker date="1507764299000" expanded="true" signature="1649:1870" ph="..." />
               </folding>
             </state>
           </provider>
@@ -83,8 +74,8 @@
       <file leaf-file-name="content-location.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-location.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="62" selection-end-column="9" />
+            <state relative-caret-position="487">
+              <caret line="70" column="8" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -160,11 +151,12 @@
       <find>http://future-fownders.dev/wp</find>
       <find>http://future-fownders.dev/</find>
       <find>main.</find>
+      <find>.dev</find>
     </findStrings>
     <replaceStrings>
       <replace>https://fowndershub.imgix.net/hubfs/</replace>
-      <replace>../wp</replace>
       <replace>https://</replace>
+      <replace>../wp</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -443,12 +435,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507761007699</updated>
-      <workItem from="1507761011124" duration="2570000" />
+      <workItem from="1507761011124" duration="2715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2570000" />
+    <option name="totallyTimeSpent" value="2715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="22" width="1232" height="765" extended-state="0" />
@@ -496,14 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2865">
           <caret line="191" column="13" lean-forward="false" selection-start-line="191" selection-start-column="13" selection-end-line="191" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-location.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="62" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -576,17 +560,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/templates/gala/content-location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="70" column="8" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="337" column="7" lean-forward="true" selection-start-line="329" selection-start-column="0" selection-end-line="337" selection-end-column="7" />
+        <state relative-caret-position="190">
+          <caret line="193" column="45" lean-forward="false" selection-start-line="193" selection-start-column="45" selection-end-line="193" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1507764073000" expanded="true" signature="3950:4247" ph="..." />
-            <marker date="1507764073000" expanded="true" signature="3978:4240" ph="..." />
-            <marker date="1507764073000" expanded="true" signature="4008:4229" ph="..." />
+            <marker date="1507764299000" expanded="true" signature="1591:1888" ph="..." />
+            <marker date="1507764299000" expanded="true" signature="1619:1881" ph="..." />
+            <marker date="1507764299000" expanded="true" signature="1649:1870" ph="..." />
           </folding>
         </state>
       </provider>
