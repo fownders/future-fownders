@@ -1,0 +1,35 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3415369, 2017-07-01T10:59:43-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: DINNextLTPro-Bold by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/din-next/pro-bold/
+ * Licensed pageviews: 500,000
+ * 
+ * Webfont: DINNextLTPro-Light by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/din-next/pro-light/
+ * Licensed pageviews: 250,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3415369
+ * Webfonts copyright: Copyright &#x00A9; 2008 - 2009 Linotype GmbH, www.linotype.com. All rights reserved. This font software may not be reproduced, modified, disclosed or transferred without the express written approval of Linotype GmbH.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/341d49");
+
+  
+@font-face {font-family: 'DINNext';font-weight: bold;font-style: normal;src:url('webfonts/341D49_0_unhinted_0.woff2') format('woff2'),url('webfonts/341D49_0_unhinted_0.woff') format('woff'),url('webfonts/341D49_0_unhinted_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DINNext';font-weight: normal;font-style: normal;src:url('webfonts/341D49_1_unhinted_0.woff2') format('woff2'),url('webfonts/341D49_1_unhinted_0.woff') format('woff'),url('webfonts/341D49_1_unhinted_0.ttf') format('truetype');}
+ 

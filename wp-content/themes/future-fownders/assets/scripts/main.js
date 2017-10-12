@@ -51,7 +51,6 @@
               });
 
           $(function() {
-
               // $('.bg').delay(3000).fadeOut(500);
               $('.vivus-bg').hide().delay(2800).fadeIn(800);
               $('.vivus-2').hide().delay(2800).fadeIn(1500);
