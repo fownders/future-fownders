@@ -169,7 +169,14 @@
                         <h3 class="f-32 grey-text text-uppercase bold-text">$250</h3>
                         <div class="row mb0 p-20">
                             <div class="col s12 left-align mobile-center">
-                                <a class="cta-blue waves-effect waves-light btn-large transparent" href="https://drive.google.com/file/d/0B5qB_Dm257Z5bmVJTG9SWm5PSzA/view">Register Here</a>
+                                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                    <input type="hidden" name="cmd" value="_s-xclick">
+                                    <input type="hidden" name="hosted_button_id" value="JVSZPA47KU4J4">
+                                    <input type="image" class="cta-blue waves-effect waves-light btn-large transparent" border="0" name="submit" alt="Register">
+                                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                                </form>
+
+                                <!--<a class="cta-blue waves-effect waves-light btn-large transparent" href="https://drive.google.com/file/d/0B5qB_Dm257Z5bmVJTG9SWm5PSzA/view">Register Here</a>-->
                             </div>
                         </div>
                     </div>
