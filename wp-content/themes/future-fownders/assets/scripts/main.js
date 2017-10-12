@@ -56,6 +56,7 @@
               $('.vivus-bg').hide().delay(2800).fadeIn(800);
               $('.vivus-2').hide().delay(2800).fadeIn(1500);
               $('.vivus-3').hide().delay(2800).fadeIn(1500);
+              $('.logo-fade').delay(2600).fadeOut(550);
           });
           //gala svg animation===============================
           // var pathObj = {
