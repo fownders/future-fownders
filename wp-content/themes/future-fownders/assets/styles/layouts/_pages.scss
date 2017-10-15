@@ -196,6 +196,9 @@ nav ul a{
   font-weight: bold;
   letter-spacing: 2px;
 }
+.justify-text{
+  text-align: justify;
+}
 .gry-border{
   border:solid 1px #e0e2e3;
 }
@@ -702,6 +705,9 @@ hr.brand-hr {
   }
   .p-20-all{
     padding:20px !important;
+  }
+  .pt-40{
+    padding-top:40px;
   }
   .blue-cta{
     padding:30px 0 30px 0 !important;
