@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donate.html" afterPath="$PROJECT_DIR$/donate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event.html" afterPath="$PROJECT_DIR$/event.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gold-package.html" afterPath="$PROJECT_DIR$/gold-package.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lead-package.html" afterPath="$PROJECT_DIR$/lead-package.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/location.html" afterPath="$PROJECT_DIR$/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partner-package.html" afterPath="$PROJECT_DIR$/partner-package.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platinum-package.html" afterPath="$PROJECT_DIR$/platinum-package.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silver-package.html" afterPath="$PROJECT_DIR$/silver-package.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="124" column="89" lean-forward="false" selection-start-line="124" selection-start-column="89" selection-end-line="124" selection-end-column="89" />
+            <state relative-caret-position="202">
+              <caret line="110" column="8" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -56,8 +47,8 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="126" column="89" lean-forward="false" selection-start-line="126" selection-start-column="89" selection-end-line="126" selection-end-column="89" />
+            <state relative-caret-position="384">
+              <caret line="175" column="152" lean-forward="true" selection-start-line="175" selection-start-column="152" selection-end-line="175" selection-end-column="163" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -68,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="donate.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="donate.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/donate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="110" column="158" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="158" />
+            <state relative-caret-position="470">
+              <caret line="176" column="97" lean-forward="false" selection-start-line="176" selection-start-column="97" selection-end-line="176" selection-end-column="97" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -235,15 +226,15 @@
         <option value="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sponsors.html" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/silver-package.html" />
         <option value="$PROJECT_DIR$/partner-package.html" />
         <option value="$PROJECT_DIR$/event.html" />
         <option value="$PROJECT_DIR$/location.html" />
-        <option value="$PROJECT_DIR$/donate.html" />
         <option value="$PROJECT_DIR$/gold-package.html" />
         <option value="$PROJECT_DIR$/lead-package.html" />
         <option value="$PROJECT_DIR$/platinum-package.html" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/donate.html" />
       </list>
     </option>
   </component>
@@ -651,7 +642,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36770000" />
+    <option name="totallyTimeSpent" value="37203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="22" width="1232" height="765" extended-state="0" />
@@ -1137,19 +1128,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/donate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="110" column="158" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="158" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gold-package.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
@@ -1225,10 +1203,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="110" column="8" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="126" column="89" lean-forward="false" selection-start-line="126" selection-start-column="89" selection-end-line="126" selection-end-column="89" />
+        <state relative-caret-position="384">
+          <caret line="175" column="152" lean-forward="true" selection-start-line="175" selection-start-column="152" selection-end-line="175" selection-end-column="163" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1238,16 +1231,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sponsors.html">
+    <entry file="file://$PROJECT_DIR$/donate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="124" column="89" lean-forward="false" selection-start-line="124" selection-start-column="89" selection-end-line="124" selection-end-column="89" />
+        <state relative-caret-position="470">
+          <caret line="176" column="97" lean-forward="false" selection-start-line="176" selection-start-column="97" selection-end-line="176" selection-end-column="97" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
