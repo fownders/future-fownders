@@ -956,3 +956,111 @@ hr.brand-hr {
 .min-height{
   min-height: 60px;
 }
+
+//.brand-text{
+//  color: #00bff5 !important;
+//}
+//div.form-style .span{
+//  color:white;
+//}
+//.span, label{
+//  color:black;
+//}
+//.hbspt-form{
+//  padding-bottom:45px;
+//}
+//.hs-error-msgs, .inputs-list, ul.hs-error-msgs.inputs-list li label{
+//  font-size: 14px !important;
+//  color:red !important;
+//}
+//.hs-error-msgs, .inputs-list{
+//  margin: 0;
+//  text-transform: capitalize;
+//}
+//
+input:not([type]),
+input[type=text],
+input[type=password],
+input[type=email],
+input[type=url],
+input[type=time],
+input[type=date],
+input[type=datetime],
+input[type=datetime-local],
+input[type=tel],
+input[type=number],
+input[type=search],
+textarea.materialize-textarea,
+textarea{
+  //border: 1px solid #008db5 !important;
+  //background-color: #ffffff !important;
+  color: #002a36 !important;
+  padding: 0 0 0 0 !important;
+  //border-radius: 3px;
+  margin: 0 0 5px 0 !important;
+}
+
+input[type="submit"] {
+  background-image: linear-gradient(-179deg, #00BFF5 2%, #00ABDB 100%) !important;
+  border-radius: 3px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color:white!important;
+  border: 1px solid #ffffff;
+  height:4rem!important;
+  line-height: 4rem;
+  padding:0 20px;
+  //position: absolute;
+  //bottom: 0;
+  //left: 0;
+  //right: 0;
+  //width: 100%;
+  margin-top:15px;
+}
+.hs-form-3d6b88a7-4527-49b1-8623-120a658c6581_85ed4b7c-da33-434a-85ab-02fe9cc098ac, fieldset.form-columns-2, .hs-form-field {
+  text-align:left !important;
+}
+
+label{
+  text-align:left !important;
+}
+//
+//input[type="submit"]:hover {
+//  background-color: #002a36 !important;
+//}
+//
+//[type="checkbox"]:not(:checked), [type="checkbox"]:checked{
+//  opacity: 1 !important;
+//  left: 0 !important;
+//  position: relative !important;
+//  margin-right: 5px;
+//}
+//
+//select{
+//  background-color: rgba(255, 255, 255, 1)!important;
+//  border-radius: 0 !important;
+//  border: 1px solid #008db5 !important;
+//}
+//
+.hs-form-3b1242ed-1d7a-4c0a-9c23-5755818d333f_5866347a-48bc-4227-8d2a-aef1d1870947 fieldset, fieldset {
+  border: 0;
+  padding: 0 30px;
+  margin: 0;
+  max-width: 100% !important;
+}
+.hs-form-3b1242ed-1d7a-4c0a-9c23-5755818d333f_ec30ac49-2ffc-413b-9675-1ef6a2f73cdd fieldset.form-columns-1 .hs-input, .hs-input {
+  width: 100% !important;
+}
+
+  input[type=email]:focus:not([readonly]), input[type=number]:focus:not([readonly]), input[type=password]:focus:not([readonly]), input[type=search]:focus:not([readonly]), input[type=tel]:focus:not([readonly]), input[type=text]:focus:not([readonly]) {
+  border-bottom: 1px solid #00bff5;
+  box-shadow: 0 1px 0 0 #00bff5;
+}
+//
+//.hs-footer-company-copyright{
+//  color:transparent !important;
+//}
+//
+//.dark-blue-text{
+//  color:#005c75;
+//}
