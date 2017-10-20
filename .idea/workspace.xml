@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/future-fownders-fridays.html" afterPath="$PROJECT_DIR$/future-fownders-fridays.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,10 +14,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="-236">
               <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="future-fownders-fridays.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="future-fownders-fridays.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/future-fownders-fridays.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="52" />
+            <state relative-caret-position="196">
+              <caret line="164" column="207" lean-forward="false" selection-start-line="164" selection-start-column="207" selection-end-line="164" selection-end-column="207" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -162,8 +161,8 @@
         <option value="$PROJECT_DIR$/donate.html" />
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/event.html" />
-        <option value="$PROJECT_DIR$/future-fownders-fridays.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/future-fownders-fridays.html" />
       </list>
     </option>
   </component>
@@ -599,12 +598,12 @@
       <workItem from="1507761011124" duration="4500000" />
       <workItem from="1507788896554" duration="9341000" />
       <workItem from="1508356839395" duration="3850000" />
-      <workItem from="1508463943853" duration="2225000" />
+      <workItem from="1508463943853" duration="2306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50482000" />
+    <option name="totallyTimeSpent" value="50563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="122" y="69" width="1232" height="765" extended-state="0" />
@@ -1076,22 +1075,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/future-fownders-fridays.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="-236">
           <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1105,6 +1091,19 @@
             <marker date="1508507711000" expanded="true" signature="4539:4869" ph="..." />
             <marker date="1508507711000" expanded="true" signature="4571:4858" ph="..." />
             <marker date="1508507711000" expanded="true" signature="4605:4843" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/future-fownders-fridays.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="164" column="207" lean-forward="false" selection-start-line="164" selection-start-column="207" selection-end-line="164" selection-end-column="207" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
