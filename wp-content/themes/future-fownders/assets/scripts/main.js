@@ -37,9 +37,6 @@
           $(".gala-button-collapse").sideNav();
           $(".button-collapse").sideNav();
           $('ul.tabs').tabs();
-          $('#modal1').modal('open');
-          $('#modal1').modal('close');
-          $('.modal-trigger').leanModal();
           // $('ul.tabs').tabs('select_tab', 'tab_id');
 
           new Vivus('gala-logo', {
