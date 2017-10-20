@@ -96,13 +96,13 @@
         </div>
         <div class="container">
             <a href="../" class="brand-logo" alt="Future Fownders Logo"><img src="https://fowndershub.imgix.net/hubfs/future-fownders-logo-white.png?w=200" alt="Future Fownders Logo" class="white-logo responsive-img nav-logo" width="100"></a>
-            <ul class="right hide-on-med-and-down gala">
-                <li><a target="_self" class="nav-blue gala-link" href="../event.html">Our Event</a></li>
-                <li><a target="_self" class="nav-blue gala-link" href="../register.html">Register Here</a></li>
-                <li><a target="_self" class="nav-blue gala-link" href="../location.html">Location</a></li>
-                <li><a target="_self" class="nav-blue gala-link" href="../sponsors.html">Sponsorship</a></li>
-                <li><a target="_self" class="white-text cta-blue waves-effect waves-light btn-large dt-donate-btn" href="../donate.html">Donate</a></li>
-            </ul>
+            <!--<ul class="right hide-on-med-and-down gala">-->
+                <!--<li><a target="_self" class="nav-blue gala-link" href="../event.html">Our Event</a></li>-->
+                <!--<li><a target="_self" class="nav-blue gala-link" href="../register.html">Register Here</a></li>-->
+                <!--<li><a target="_self" class="nav-blue gala-link" href="../location.html">Location</a></li>-->
+                <!--<li><a target="_self" class="nav-blue gala-link" href="../sponsors.html">Sponsorship</a></li>-->
+                <!--<li><a target="_self" class="white-text cta-blue waves-effect waves-light btn-large dt-donate-btn" href="../donate.html">Donate</a></li>-->
+            <!--</ul>-->
         </div>
     </div>
 </nav>
@@ -130,13 +130,14 @@
 </div>
 <!--<a target="_self" class="cta-blue waves-effect waves-light btn-large white-text hide-on-large-only mobile-donate-btn" href="../donate.html">Donate</a>-->
 
-<div class="page-header">
+<div class="page-header black">
     <div class="container">
         <div class="row mb0 p-40">
             <div class="col s12 center">
                 <br><br><br><br>
-                <br><br><br><br>
-                <br><br><br><br>
+                <br><br>
+                <!--<br><br>-->
+                <!--<br><br><br><br class="hide-on-small-only">-->
                 <!--<br><br><br><br>-->
                 <!--<img src="https://fowndershub.imgix.net/hubfs/future-fownders-gala.png" width="162px" height="132px">-->
             </div>
@@ -165,8 +166,23 @@
         background-image: linear-gradient(-180deg, rgba(0,92,117,0.85) 0%, rgba(0,92,117,0.03) 40%, rgba(0,92,117,0.00) 62%, rgba(0,92,117,0.85) 100%),url("https://fownders.s3.us-east-2.amazonaws.com/FFF.png");
         /*background-image: linear-gradient(-180deg, rgba(0,92,117,0.85) 0%, rgba(0,92,117,0.03) 40%, rgba(0,92,117,0.00) 62%, rgba(0,92,117,0.85) 100%);*/
         background-size: cover;
-        background-position: 100% 25% !important;
+        /*background-position: 100% 75% !important;*/
+        height: 100%;
+        width: auto;
         background-repeat: no-repeat;
+    }
+    @media (max-width: 480px){
+        .page-header {
+            margin-top: 0 !important;
+            background: transparent;
+            background-image: url("https://fownders.s3.us-east-2.amazonaws.com/FFF-IG.png");
+            background-image: -webkit-linear-gradient(rgba(0,0, 0,.95),rgba(0,0, 0,.2)),url("https://fownders.s3.us-east-2.amazonaws.com/FFF-IG.png");
+            background-image: linear-gradient(-180deg, rgba(0,92,117,0.85) 0%, rgba(0,92,117,0.03) 40%, rgba(0,92,117,0.00) 62%, rgba(0,92,117,0.85) 100%),url("https://fownders.s3.us-east-2.amazonaws.com/FFF-IG.png");
+            /*background-image: linear-gradient(-180deg, rgba(0,92,117,0.85) 0%, rgba(0,92,117,0.03) 40%, rgba(0,92,117,0.00) 62%, rgba(0,92,117,0.85) 100%);*/
+            background-size: cover;
+            background-position: 100% 48% !important;
+            background-repeat: no-repeat;
+        }
     }
 </style>
 
@@ -177,7 +193,7 @@
             <div class="container">
                 <div class="row mb0 p-20">
                     <div class="col s12 center-align">
-                        <h4 class="f-62 brand-text bold-text">Future Fownders Fridays</h4>
+                        <h4 class="f-62 brand-text">Future Fownders Fridays</h4>
                         <p class="f-18 black-text">Help us further our mission of educating our youth for the future.</p>
                     </div>
                 </div>
