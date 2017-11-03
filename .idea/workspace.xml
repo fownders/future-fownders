@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="170" column="58" lean-forward="false" selection-start-line="170" selection-start-column="58" selection-end-line="170" selection-end-column="58" />
+            <state relative-caret-position="600">
+              <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -65,12 +65,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1782">
-              <caret line="180" column="166" lean-forward="false" selection-start-line="180" selection-start-column="166" selection-end-line="180" selection-end-column="166" />
-              <folding />
+            <state relative-caret-position="348">
+              <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="176" selection-end-column="26" />
+              <folding>
+                <marker date="1509740411000" expanded="false" signature="11040:11081" ph="..." />
+                <marker date="1509740411000" expanded="false" signature="11705:11759" ph="..." />
+                <marker date="1509740411000" expanded="false" signature="12671:12727" ph="..." />
+                <marker date="1509740411000" expanded="false" signature="13704:13758" ph="..." />
+                <marker date="1509740411000" expanded="false" signature="14632:14687" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,8 +197,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" />
         <option value="$PROJECT_DIR$/location.html" />
         <option value="$PROJECT_DIR$/event.html" />
-        <option value="$PROJECT_DIR$/sponsors.html" />
         <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/sponsors.html" />
       </list>
     </option>
   </component>
@@ -562,12 +568,12 @@
       <workItem from="1508356839395" duration="3850000" />
       <workItem from="1508463943853" duration="12720000" />
       <workItem from="1509039336570" duration="1044000" />
-      <workItem from="1509559588316" duration="9353000" />
+      <workItem from="1509559588316" duration="11830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71374000" />
+    <option name="totallyTimeSpent" value="73851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="69" width="1232" height="765" extended-state="0" />
@@ -1033,19 +1039,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sponsors.html">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1782">
-          <caret line="180" column="166" lean-forward="false" selection-start-line="180" selection-start-column="166" selection-end-line="180" selection-end-column="166" />
+        <state relative-caret-position="600">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/sponsors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="170" column="58" lean-forward="false" selection-start-line="170" selection-start-column="58" selection-end-line="170" selection-end-column="58" />
-          <folding />
+        <state relative-caret-position="348">
+          <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="176" selection-end-column="26" />
+          <folding>
+            <marker date="1509740411000" expanded="false" signature="11040:11081" ph="..." />
+            <marker date="1509740411000" expanded="false" signature="11705:11759" ph="..." />
+            <marker date="1509740411000" expanded="false" signature="12671:12727" ph="..." />
+            <marker date="1509740411000" expanded="false" signature="13704:13758" ph="..." />
+            <marker date="1509740411000" expanded="false" signature="14632:14687" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
