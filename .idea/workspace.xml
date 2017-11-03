@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
-    </list>
+    <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +65,8 @@
       <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="176" selection-end-column="26" />
+            <state relative-caret-position="352">
+              <caret line="169" column="135" lean-forward="true" selection-start-line="169" selection-start-column="135" selection-end-line="169" selection-end-column="135" />
               <folding>
                 <marker date="1509740411000" expanded="false" signature="11040:11081" ph="..." />
                 <marker date="1509740411000" expanded="false" signature="11705:11759" ph="..." />
@@ -568,12 +565,12 @@
       <workItem from="1508356839395" duration="3850000" />
       <workItem from="1508463943853" duration="12720000" />
       <workItem from="1509039336570" duration="1044000" />
-      <workItem from="1509559588316" duration="11830000" />
+      <workItem from="1509559588316" duration="12146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73851000" />
+    <option name="totallyTimeSpent" value="74167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="69" width="1232" height="765" extended-state="0" />
@@ -1049,8 +1046,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sponsors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="176" selection-end-column="26" />
+        <state relative-caret-position="352">
+          <caret line="169" column="135" lean-forward="true" selection-start-line="169" selection-start-column="135" selection-end-line="169" selection-end-column="135" />
           <folding>
             <marker date="1509740411000" expanded="false" signature="11040:11081" ph="..." />
             <marker date="1509740411000" expanded="false" signature="11705:11759" ph="..." />
