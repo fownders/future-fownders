@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,20 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="249" column="50" lean-forward="false" selection-start-line="249" selection-start-column="50" selection-end-line="249" selection-end-column="50" />
+            <state relative-caret-position="386">
+              <caret line="186" column="172" lean-forward="false" selection-start-line="186" selection-start-column="172" selection-end-line="186" selection-end-column="172" />
               <folding>
-                <element signature="e#22850#22856#0" expanded="true" />
-                <element signature="e#22856#22862#0" expanded="true" />
-                <element signature="e#22862#22868#0" expanded="true" />
-                <element signature="e#22868#22874#0" expanded="true" />
-                <element signature="e#22884#22890#0" expanded="true" />
-                <element signature="e#22890#22896#0" expanded="true" />
-                <element signature="e#22896#22902#0" expanded="true" />
-                <element signature="e#22902#22908#0" expanded="true" />
+                <element signature="e#22870#22876#0" expanded="true" />
+                <element signature="e#22876#22882#0" expanded="true" />
+                <element signature="e#22882#22888#0" expanded="true" />
+                <element signature="e#22888#22894#0" expanded="true" />
+                <element signature="e#22904#22910#0" expanded="true" />
+                <element signature="e#22910#22916#0" expanded="true" />
+                <element signature="e#22916#22922#0" expanded="true" />
+                <element signature="e#22922#22928#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="782" column="18" lean-forward="false" selection-start-line="782" selection-start-column="18" selection-end-line="782" selection-end-column="18" />
+            <state relative-caret-position="474">
+              <caret line="792" column="8" lean-forward="true" selection-start-line="792" selection-start-column="8" selection-end-line="792" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -209,8 +207,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/scripts/main.js" />
         <option value="$PROJECT_DIR$/location.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -582,12 +580,12 @@
       <workItem from="1508463943853" duration="12720000" />
       <workItem from="1509039336570" duration="1044000" />
       <workItem from="1509559588316" duration="13146000" />
-      <workItem from="1509813449697" duration="16141000" />
+      <workItem from="1509813449697" duration="16448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91308000" />
+    <option name="totallyTimeSpent" value="91615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="69" width="1232" height="765" extended-state="0" />
@@ -1069,28 +1067,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="249" column="50" lean-forward="false" selection-start-line="249" selection-start-column="50" selection-end-line="249" selection-end-column="50" />
-          <folding>
-            <element signature="e#22850#22856#0" expanded="true" />
-            <element signature="e#22856#22862#0" expanded="true" />
-            <element signature="e#22862#22868#0" expanded="true" />
-            <element signature="e#22868#22874#0" expanded="true" />
-            <element signature="e#22884#22890#0" expanded="true" />
-            <element signature="e#22890#22896#0" expanded="true" />
-            <element signature="e#22896#22902#0" expanded="true" />
-            <element signature="e#22902#22908#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="474">
+          <caret line="792" column="8" lean-forward="true" selection-start-line="792" selection-start-column="8" selection-end-line="792" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="782" column="18" lean-forward="false" selection-start-line="782" selection-start-column="18" selection-end-line="782" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="386">
+          <caret line="186" column="172" lean-forward="false" selection-start-line="186" selection-start-column="172" selection-end-line="186" selection-end-column="172" />
+          <folding>
+            <element signature="e#22870#22876#0" expanded="true" />
+            <element signature="e#22876#22882#0" expanded="true" />
+            <element signature="e#22882#22888#0" expanded="true" />
+            <element signature="e#22888#22894#0" expanded="true" />
+            <element signature="e#22904#22910#0" expanded="true" />
+            <element signature="e#22910#22916#0" expanded="true" />
+            <element signature="e#22916#22922#0" expanded="true" />
+            <element signature="e#22922#22928#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
