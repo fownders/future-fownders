@@ -897,11 +897,13 @@ hr.brand-hr {
   .brand-left-border {
     border: none!important;
   }
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px){
   .circle{
     max-width: 400px !important;
   }
 }
-
 
 
 .sub-bar{
