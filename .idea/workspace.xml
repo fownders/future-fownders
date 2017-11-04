@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donate.html" afterPath="$PROJECT_DIR$/donate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event.html" afterPath="$PROJECT_DIR$/event.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/location.html" afterPath="$PROJECT_DIR$/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/scripts/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/scripts/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/scripts/main.js.map" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/scripts/main.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/main.css.map" />
     </list>
@@ -87,8 +79,8 @@
       <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="897" column="32" lean-forward="false" selection-start-line="897" selection-start-column="32" selection-end-line="897" selection-end-column="32" />
+            <state relative-caret-position="532">
+              <caret line="774" column="17" lean-forward="false" selection-start-line="774" selection-start-column="17" selection-end-line="774" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -125,6 +117,34 @@
             <state relative-caret-position="448">
               <caret line="92" column="12" lean-forward="false" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="109" column="55" lean-forward="true" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="64" />
+              <folding>
+                <element signature="e#8022#8028#0" expanded="true" />
+                <element signature="e#8028#8034#0" expanded="true" />
+                <element signature="e#8034#8040#0" expanded="true" />
+                <element signature="e#8040#8046#0" expanded="true" />
+                <element signature="e#8046#8052#0" expanded="true" />
+                <element signature="e#8052#8058#0" expanded="true" />
+                <element signature="e#8058#8064#0" expanded="true" />
+                <element signature="e#8074#8080#0" expanded="true" />
+                <element signature="e#8080#8086#0" expanded="true" />
+                <element signature="e#8086#8092#0" expanded="true" />
+                <element signature="e#8092#8098#0" expanded="true" />
+                <element signature="e#8098#8104#0" expanded="true" />
+                <element signature="e#8104#8110#0" expanded="true" />
+                <element signature="e#8110#8116#0" expanded="true" />
+                <marker date="1509835453000" expanded="true" signature="4576:4906" ph="..." />
+                <marker date="1509835453000" expanded="true" signature="4608:4895" ph="..." />
+                <marker date="1509835453000" expanded="true" signature="4642:4880" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,7 +202,6 @@
         <option value="$PROJECT_DIR$/platinum-package.html" />
         <option value="$PROJECT_DIR$/gold-package.html" />
         <option value="$PROJECT_DIR$/silver-package.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/donate.html" />
         <option value="$PROJECT_DIR$/sponsors.html" />
         <option value="$PROJECT_DIR$/event.html" />
@@ -191,6 +210,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/scripts/main.js" />
         <option value="$PROJECT_DIR$/location.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss" />
       </list>
     </option>
@@ -563,12 +583,12 @@
       <workItem from="1508463943853" duration="12720000" />
       <workItem from="1509039336570" duration="1044000" />
       <workItem from="1509559588316" duration="13146000" />
-      <workItem from="1509813449697" duration="13116000" />
+      <workItem from="1509813449697" duration="13322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88283000" />
+    <option name="totallyTimeSpent" value="88489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="69" width="1232" height="765" extended-state="0" />
@@ -624,23 +644,23 @@
         <state relative-caret-position="-734">
           <caret line="49" column="110" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="110" />
           <folding>
-            <element signature="e#8012#8018#0" expanded="true" />
-            <element signature="e#8018#8024#0" expanded="true" />
-            <element signature="e#8024#8030#0" expanded="true" />
-            <element signature="e#8030#8036#0" expanded="true" />
-            <element signature="e#8036#8042#0" expanded="true" />
-            <element signature="e#8042#8048#0" expanded="true" />
-            <element signature="e#8048#8054#0" expanded="true" />
-            <element signature="e#8064#8070#0" expanded="true" />
-            <element signature="e#8070#8076#0" expanded="true" />
-            <element signature="e#8076#8082#0" expanded="true" />
-            <element signature="e#8082#8088#0" expanded="true" />
-            <element signature="e#8088#8094#0" expanded="true" />
-            <element signature="e#8094#8100#0" expanded="true" />
-            <element signature="e#8100#8106#0" expanded="true" />
-            <marker date="1509564128000" expanded="true" signature="4576:4906" ph="..." />
-            <marker date="1509564128000" expanded="true" signature="4608:4895" ph="..." />
-            <marker date="1509564128000" expanded="true" signature="4642:4880" ph="..." />
+            <element signature="e#8022#8028#0" expanded="true" />
+            <element signature="e#8028#8034#0" expanded="true" />
+            <element signature="e#8034#8040#0" expanded="true" />
+            <element signature="e#8040#8046#0" expanded="true" />
+            <element signature="e#8046#8052#0" expanded="true" />
+            <element signature="e#8052#8058#0" expanded="true" />
+            <element signature="e#8058#8064#0" expanded="true" />
+            <element signature="e#8074#8080#0" expanded="true" />
+            <element signature="e#8080#8086#0" expanded="true" />
+            <element signature="e#8086#8092#0" expanded="true" />
+            <element signature="e#8092#8098#0" expanded="true" />
+            <element signature="e#8098#8104#0" expanded="true" />
+            <element signature="e#8104#8110#0" expanded="true" />
+            <element signature="e#8110#8116#0" expanded="true" />
+            <marker date="1509835453000" expanded="true" signature="4576:4906" ph="..." />
+            <marker date="1509835453000" expanded="true" signature="4608:4895" ph="..." />
+            <marker date="1509835453000" expanded="true" signature="4642:4880" ph="..." />
           </folding>
         </state>
       </provider>
@@ -716,23 +736,23 @@
         <state relative-caret-position="1410">
           <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding>
-            <element signature="e#8012#8018#0" expanded="true" />
-            <element signature="e#8018#8024#0" expanded="true" />
-            <element signature="e#8024#8030#0" expanded="true" />
-            <element signature="e#8030#8036#0" expanded="true" />
-            <element signature="e#8036#8042#0" expanded="true" />
-            <element signature="e#8042#8048#0" expanded="true" />
-            <element signature="e#8048#8054#0" expanded="true" />
-            <element signature="e#8064#8070#0" expanded="true" />
-            <element signature="e#8070#8076#0" expanded="true" />
-            <element signature="e#8076#8082#0" expanded="true" />
-            <element signature="e#8082#8088#0" expanded="true" />
-            <element signature="e#8088#8094#0" expanded="true" />
-            <element signature="e#8094#8100#0" expanded="true" />
-            <element signature="e#8100#8106#0" expanded="true" />
-            <marker date="1509564128000" expanded="true" signature="4576:4906" ph="..." />
-            <marker date="1509564128000" expanded="true" signature="4608:4895" ph="..." />
-            <marker date="1509564128000" expanded="true" signature="4642:4880" ph="..." />
+            <element signature="e#8022#8028#0" expanded="true" />
+            <element signature="e#8028#8034#0" expanded="true" />
+            <element signature="e#8034#8040#0" expanded="true" />
+            <element signature="e#8040#8046#0" expanded="true" />
+            <element signature="e#8046#8052#0" expanded="true" />
+            <element signature="e#8052#8058#0" expanded="true" />
+            <element signature="e#8058#8064#0" expanded="true" />
+            <element signature="e#8074#8080#0" expanded="true" />
+            <element signature="e#8080#8086#0" expanded="true" />
+            <element signature="e#8086#8092#0" expanded="true" />
+            <element signature="e#8092#8098#0" expanded="true" />
+            <element signature="e#8098#8104#0" expanded="true" />
+            <element signature="e#8104#8110#0" expanded="true" />
+            <element signature="e#8110#8116#0" expanded="true" />
+            <marker date="1509835453000" expanded="true" signature="4576:4906" ph="..." />
+            <marker date="1509835453000" expanded="true" signature="4608:4895" ph="..." />
+            <marker date="1509835453000" expanded="true" signature="4642:4880" ph="..." />
           </folding>
         </state>
       </provider>
@@ -976,32 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="112" column="31" lean-forward="false" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
-          <folding>
-            <element signature="e#8012#8018#0" expanded="true" />
-            <element signature="e#8018#8024#0" expanded="true" />
-            <element signature="e#8024#8030#0" expanded="true" />
-            <element signature="e#8030#8036#0" expanded="true" />
-            <element signature="e#8036#8042#0" expanded="true" />
-            <element signature="e#8042#8048#0" expanded="true" />
-            <element signature="e#8048#8054#0" expanded="true" />
-            <element signature="e#8064#8070#0" expanded="true" />
-            <element signature="e#8070#8076#0" expanded="true" />
-            <element signature="e#8076#8082#0" expanded="true" />
-            <element signature="e#8082#8088#0" expanded="true" />
-            <element signature="e#8088#8094#0" expanded="true" />
-            <element signature="e#8094#8100#0" expanded="true" />
-            <element signature="e#8100#8106#0" expanded="true" />
-            <marker date="1509564128000" expanded="true" signature="4576:4906" ph="..." />
-            <marker date="1509564128000" expanded="true" signature="4608:4895" ph="..." />
-            <marker date="1509564128000" expanded="true" signature="4642:4880" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/event.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -1067,10 +1061,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="109" column="55" lean-forward="true" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="64" />
+          <folding>
+            <element signature="e#8022#8028#0" expanded="true" />
+            <element signature="e#8028#8034#0" expanded="true" />
+            <element signature="e#8034#8040#0" expanded="true" />
+            <element signature="e#8040#8046#0" expanded="true" />
+            <element signature="e#8046#8052#0" expanded="true" />
+            <element signature="e#8052#8058#0" expanded="true" />
+            <element signature="e#8058#8064#0" expanded="true" />
+            <element signature="e#8074#8080#0" expanded="true" />
+            <element signature="e#8080#8086#0" expanded="true" />
+            <element signature="e#8086#8092#0" expanded="true" />
+            <element signature="e#8092#8098#0" expanded="true" />
+            <element signature="e#8098#8104#0" expanded="true" />
+            <element signature="e#8104#8110#0" expanded="true" />
+            <element signature="e#8110#8116#0" expanded="true" />
+            <marker date="1509835453000" expanded="true" signature="4576:4906" ph="..." />
+            <marker date="1509835453000" expanded="true" signature="4608:4895" ph="..." />
+            <marker date="1509835453000" expanded="true" signature="4642:4880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/assets/styles/layouts/_pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="897" column="32" lean-forward="false" selection-start-line="897" selection-start-column="32" selection-end-line="897" selection-end-column="32" />
+        <state relative-caret-position="532">
+          <caret line="774" column="17" lean-forward="false" selection-start-line="774" selection-start-column="17" selection-end-line="774" selection-end-column="17" />
           <folding />
         </state>
       </provider>
