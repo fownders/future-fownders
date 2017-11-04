@@ -37,26 +37,56 @@
           $(".gala-button-collapse").sideNav();
           $(".button-collapse").sideNav();
           $('ul.tabs').tabs();
+
+          // $(document).ready(function(){
+              // the "href" attribute of the modal trigger must specify the modal ID that wants to be triggered
+
+              $('.modal').modal({
+                      dismissible: true, // Modal can be dismissed by clicking outside of the modal
+                      opacity: .5, // Opacity of modal background
+                      inDuration: 300, // Transition in duration
+                      outDuration: 200, // Transition out duration
+                      startingTop: '4%', // Starting top style attribute
+                      endingTop: '10%', // Ending top style attribute
+
+                  }
+              );
+          // $('#modal2').modal2('open');
+          // $('.modal2').modal2({
+          //         dismissible: true, // Modal can be dismissed by clicking outside of the modal
+          //         opacity: .5, // Opacity of modal background
+          //         inDuration: 300, // Transition in duration
+          //         outDuration: 200, // Transition out duration
+          //         startingTop: '4%', // Starting top style attribute
+          //         endingTop: '10%', // Ending top style attribute
+          //
+          //     }
+          // );
+          // });
           // $('ul.tabs').tabs('select_tab', 'tab_id');
 
-          new Vivus('gala-logo', {
+          // new Vivus('gala-logo', {
                 // delay: 50,
                 // type: 'async',
                 // duration: 100,
-                animTimingFunction: Vivus.EASE,
+                // animTimingFunction: Vivus.EASE,
                 // delay:20
-              },
-              function(obj) {
-                  obj.el.classList.add('finished');
-              });
+              // },
+              // function(obj) {
+              //     obj.el.classList.add('finished');
+              // });
 
-          $(function() {
+          // $(function() {
               // $('.bg').delay(3000).fadeOut(500);
-              $('.vivus-bg').hide().delay(2800).fadeIn(800);
-              $('.vivus-2').hide().delay(2800).fadeIn(1500);
-              $('.vivus-3').hide().delay(2800).fadeIn(1500);
-              $('.logo-fade').delay(2600).fadeOut(550);
-          });
+          //     $('.vivus-bg').hide().delay(2800).fadeIn(800);
+          //     $('.vivus-2').hide().delay(2800).fadeIn(1500);
+          //     $('.vivus-3').hide().delay(2800).fadeIn(1500);
+          //     $('.logo-fade').delay(2600).fadeOut(550);
+          // });
+
+
+
+
           //gala svg animation===============================
           // var pathObj = {
 

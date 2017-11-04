@@ -878,13 +878,25 @@ hr.brand-hr {
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 600px) {
   //  nav .brand-logo {
   //  left: 5% !important;
   //}
   //.brand-logo {
   //  padding:0 !important;
   //}
+  .mobile-center{
+    text-align: center !important;
+  }
+  .btn-large{
+    width: 100%!important;
+  }
+  .brand-left-border {
+    border: none!important;
+  }
+  .circle{
+    max-width: 400px !important;
+  }
 }
 
 
