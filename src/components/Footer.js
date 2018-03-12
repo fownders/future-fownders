@@ -34,7 +34,7 @@ class Footer extends Component {
                                 <a className="ft-25" href="https://www.instagram.com/futurefownders"><FaInstagram /></a>
                             </div>
                             <div className="col s6 left-align">
-                                <a className="ft-25" href="mailto:https://www.FutureFownders@Fownders.org"><FaEnvelope /></a>
+                                <a className="ft-25" href="mailto:futurefownders@fownders.org"><FaEnvelope /></a>
                             </div>
                         </div>
                     </div>

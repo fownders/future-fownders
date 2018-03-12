@@ -6,9 +6,9 @@ const OurWork = () => {
         <section className="pd-2">
             <div className="row mb0">
                 <section className="p0">
-                    <div className="col s12 m6 l6 bg home-bg2" id="ourWork">
+                    <div className="col s12 m12 l6 bg home-bg2" id="ourWork">
                     </div>
-                    <div className="col s12 m6 l6 left-align">
+                    <div className="col s12 m12 l6 left-align">
                         <div className="mt-2">
                         <div className="col s12 m12 l3 left-align">
                             <h2 className="dark-grey-text left-align mb0">Our Work</h2>
