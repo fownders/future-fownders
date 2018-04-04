@@ -1,11 +1,11 @@
 import React from 'react';
-import DonateButton from './DonateButton';
+import DonateButton from '../DonateButton';
 
 const Header = () => {
         return (
 
-            <section className="bg home-bg1" id="donate">
-                <div className="container pd-5">
+            <section className="bg home-header-bg valign-wrapper">
+                <div className="container">
                     <div className="row">
                         <div className="col s12 left-align">
                             <h2 className="white-text left-align mb0">Future Fownders</h2>
