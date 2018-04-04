@@ -2,7 +2,8 @@ import React from 'react';
 
 const Newark = () => {
     return (
-        <section className="brand-grey">
+
+        <section className="bg why-bg3">
             <div className="container ptb-6">
                 <div className="row mb0">
                     <div className="col s12 m12 l10 offset-l1 center-align">
@@ -14,4 +15,5 @@ const Newark = () => {
         </section>
     )
 }
+
 export default Newark;

@@ -32,7 +32,7 @@ class VideoSection extends Component {
                             <div id="modal1" className="modal">
                                 <div className="modal-content">
                                     <div className="video-container">
-                                        <iframe title="Newark East Side High" width="853" height="480" src="https://www.youtube.com/embed/YulxXtu2YVI?rel=0&amp;ecver=2" frameborder="0" allowfullscreen></iframe>
+                                        <iframe title="Newark East Side High" width="853" height="480" src="https://www.youtube.com/embed/8r6OyGO0mOg?ecver=2" frameborder="0" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>

@@ -13,6 +13,11 @@ body {
   .container {
     width: 80% !important;
   }
+
+  .modal{
+      overflow: hidden !important;
+      max-height: 90% !important;
+  }
 }
 
 
@@ -57,6 +62,18 @@ p{
 
 a.hover-blue:hover{
   color: #369FF4 !important;
+}
+
+.footer-donate input[type="submit" i]{
+  border-color: transparent;
+  border-style: none !important;
+  border-width: none !important;
+  padding: 0 !important;
+  color: #999999 !important;
+}
+
+:focus {
+  outline: none !important;
 }
 
 /*.btn:hover{*/
@@ -196,13 +213,13 @@ nav ul a:hover {
 }
 
 .home-header-bg{
-  background-image: linear-gradient(to right, rgba(0, 0, 0, .99), rgba(0, 0, 0, .2)),url('https://www.fownders.co/hubfs/Future%20Fownders/Website/home-hero.jpg');
+  background-image: linear-gradient(to right, rgba(0, 0, 0, .99), rgba(0, 0, 0, .2)),url('https://fownders.s3.us-east-2.amazonaws.com/future-fownders-home-header.jpg');
   height: 60vh;
   background-position: bottom !important;
 }
 
 .home-bg3{
-  background-image: linear-gradient(to bottom, rgba(250, 250, 250, .9), rgba(250, 250, 250, .02)),url('https://www.fownders.co/hubfs/Future%20Fownders/Website/home-bg3.jpg');
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, .9), rgba(250, 250, 250, .02)),url('https://fownders.s3.us-east-2.amazonaws.com/future-fownders-home-bg3.jpg');
   /*margin-top:-20px;*/
   height: 100vh;
   padding: 2% 0;
@@ -229,8 +246,13 @@ nav ul a:hover {
   height: 58vh;
 }
 
+.why-bg3{
+  background-image: url('https://fownders.s3.us-east-2.amazonaws.com/future-fownders-newark-bg.png');
+  height: 58vh;
+}
+
 .ourwork-header-bg{
-  background-image: linear-gradient(to bottom, rgba(250, 250, 250, .9), rgba(250, 250, 250, .2)),url('https://www.fownders.co/hubfs/Future%20Fownders/Website/ourwork-header.jpg');
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, .9), rgba(250, 250, 250, .2)),url('https://fownders.s3.us-east-2.amazonaws.com/future-fownders-ourwork-header.jpg');
   height: 58vh;
 }
 

@@ -24,7 +24,12 @@ class Footer extends Component {
                                     <a href="#aboutUs" className="hover-blue">ABOUT US</a>
                                 </div>
                                 <div className="col s12 l4 center-align">
-                                    <a href="#donate" className="hover-blue">DONATE</a>
+                                    <form className="footer-donate" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                        <input type="hidden" name="cmd" value="_s-xclick"/>
+                                        <input type="hidden" name="hosted_button_id" value="RLME4T28HXER4"/>
+                                        <input type="submit" value="DONATE" name="submit" title="PayPal - The safer, easier way to pay online!" className="transparent z-depth-0 hover-blue"/>
+                                        <img  alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                    </form>
                                 </div>
                             </div>
                             <hr className="grey-hr" />

@@ -8,7 +8,6 @@ const Work = () => (
 
         <OurWorkHeader />
 
-
     </div>
 
 );
