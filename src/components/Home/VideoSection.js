@@ -15,6 +15,19 @@ class VideoSection extends Component {
         $(document).ready(function(){
             $('.modal').modal();
         });
+
+        $('#stop-video').on('click', function(ev) {
+            // $("#videocontainer").fadeOut(200);
+            $("#videoplayer").attr("src", 'https://www.youtube.com/embed/YulxXtu2YVI?rel=0&amp;ecver=2');
+            ev.preventDefault();
+
+        });
+
+        $('#play-video').on('click', function(ev) {
+            $("#videoplayer")[0].src += "&autoplay=1";
+            ev.preventDefault();
+
+        });
     }
 
     render() {
@@ -28,11 +41,16 @@ class VideoSection extends Component {
                             <p className="white-text">Future Fownders at Newark's East Side High.</p>
                         </div>
                         <div className="col s12 left-align">
-                            <a className="left-align waves-effect waves-light btn modal-trigger" href="#modal1">PLAY&nbsp;<i className="medium material-icons white-text">play_arrow</i></a>
+                            <a id="play-video" className="left-align waves-effect waves-light btn modal-trigger" href="#modal1">PLAY&nbsp;<i className="medium material-icons white-text">play_arrow</i></a>
                             <div id="modal1" className="modal">
                                 <div className="modal-content">
-                                    <div className="video-container">
-                                        <iframe title="Newark East Side High" width="853" height="480" src="https://www.youtube.com/embed/8r6OyGO0mOg?ecver=2" frameborder="0" allowfullscreen></iframe>
+                                    <div className="row">
+                                        <div className="col s12 right-align">
+                                            <a id="stop-video" href="#!" className="modal-action modal-close white-text right-align"><i className="material-icons white-text">clear</i></a>
+                                        </div>
+                                    </div>
+                                    <div id="videocontainer" className="video-container">
+                                        <iframe id="videoplayer" title="Newark East Side High" width="853" height="480" src="https://www.youtube.com/embed/8r6OyGO0mOg?ecver=2" frameborder="0" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
