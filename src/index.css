@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
+/*@font-face {*/
+  /*font-family: ‘Baskerville’;*/
+  /*src: url('https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/Baskerville.ttc') format('truetype');*/
+/*}*/
+
 body {
   margin: 0;
   padding: 0;
@@ -310,3 +315,575 @@ footer a{
     margin: 1.5rem 0 0 0 !important;
   }
 }
+
+
+/*BREAKING BREAD CSS*/
+
+.breakingbread p{
+  font-family: 'Lato', sans-serif;
+}
+
+/*html,*/
+/*body {*/
+  /*font-size: 14px;*/
+  /*overflow-x: hidden;*/
+  /*height: 100%;*/
+  /*padding: 0;*/
+  /*margin: 0;*/
+  /*letter-spacing: 1.5px;*/
+/*}*/
+
+.flex-container{
+  display: flex !important;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  height:100%;
+  width:100%;
+}
+
+.flex-col-100{
+  flex: 0 1 100%;
+}
+
+.relative-container {
+  position: relative;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: auto;
+}
+
+.d-absolute  {
+  position: relative;
+  bottom: -60px;
+}
+
+.vertical-align {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.vertical-align-container {
+  height: 100%;
+}
+
+.bg-1 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-one-top.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 600px;
+  height: auto;
+  padding-top: 4%;
+  overflow:auto;
+}
+
+.bg-1-bottom-section {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-one-bottom.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 385px;
+  height: auto;
+  overflow: auto;
+}
+
+.bg2 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-one-bottom.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 4% 0;
+}
+
+.bg-2 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-two-BG2.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 300px;
+  height: auto;
+  overflow: auto;
+  padding: 4% 0;
+}
+
+.bg-3 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-three-BG3.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 4% 0;
+}
+
+.bg-4, .bg-d {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-four-BG4.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*min-height: 300px;*/
+  height: auto;
+  padding-top: 4%;
+  /*overflow:auto;*/
+}
+
+.bg-d{
+  padding-top: 2% !important;
+}
+
+.bg-5 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-five-BG5.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 4% 0;
+}
+
+.bg-6 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-six-BG6.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  /*overflow:auto;*/
+}
+
+.bg-7 {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-seven-BG7.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  /*overflow: auto;*/
+  position: relative;
+  z-index: 10;
+  padding: 4% 0;
+}
+
+.test {
+  background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-one-button-reserveseat.png");
+}
+
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+
+.f-25 {
+  font-size: 25px;
+  line-height: 160%;
+}
+
+.f-22 {
+  font-size: 20px;
+  line-height: 160%;
+}
+
+.f-700 {
+  font-weight: 700 !important;
+}
+
+.f-300 {
+  font-weight: 300 !important;
+}
+
+.f-400 {
+  font-weight: 400 !important;
+}
+
+.f-500 {
+  font-weight: 500 !important;
+}
+
+.f-700 {
+  font-weight: 700 !important;
+}
+
+.f-25 {
+  font-size: 25px !important;
+}
+
+.lh-160 {
+  line-height: 160%;
+}
+
+
+/* .bold {
+  font-weight: 700;
+} */
+
+.m-top-bottom {
+  /* margin-top: 60px; */
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l-height200 {
+  line-height: 200%;
+}
+
+
+/*.center-justified{*/
+
+
+/*  text-align: justify;*/
+
+
+/*  text-align-last: center;*/
+
+
+/*}*/
+
+.section-one-bottom-section {
+  position: absolute;
+  bottom: -75%;
+  left: -1% !important;
+}
+
+.section-one-font-1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  font-size: 32pt;
+}
+
+.section-one-font-2 {
+  font-weight: 700;
+  font-size: 25pt;
+}
+
+.section-one-font-3 {
+  font-weight: 500;
+  font-size: 25px;
+  position: relative;
+  top: -120px;
+}
+
+.your-invited-font-1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  line-height: 160%;
+  letter-spacing: 1.5px;
+  color: rgb(176, 37, 85);
+  text-align: center;
+}
+
+.your-invited-font-2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  line-height: 160%;
+  letter-spacing: 1.5px;
+  color: rgb(176, 37, 85);
+  text-align: center;
+}
+
+.join-us-font-1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
+  color: rgb(28, 28, 28);
+}
+
+.join-us-font-2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  /* font-size: 34pt; */
+  color: rgb(28, 28, 28);
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.future-fownders-font {
+  font-family: 'Baskerville';
+  font-weight: 500;
+  line-height: 160%;
+  letter-spacing: 1.5px;
+}
+
+.gerard-eliott-bio-font {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  text-align: left;
+  font-size: 16px;
+  /* font-size: 20pt; */
+}
+
+.button-font {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  color: rgb(115, 155, 147);
+}
+
+.breakingbread .btn {
+  font-family: 'Lato', sans-serif;
+  border-radius: 10px;
+  letter-spacing: 4px;
+  padding: 0 3rem;
+  background-color: #749b93 !important;
+  height: 47px;
+  line-height: 47px;
+  font-size: 22px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.breakingbread.btn:hover {
+  background-color: #749b93;
+}
+
+.section-one-breakingbread-headerlogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-one-divider {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: -60px;
+}
+
+.section-one-logo {
+  display: block;
+}
+
+.section-one-single-star-1 {
+  position: relative;
+  /* bottom: -272px;
+right: -3px; */
+  bottom: -275px;
+  right: -5px;
+}
+
+.section-one-single-star-2 {
+  position: relative;
+  /* bottom: -244px;
+right: -845px; */
+  bottom: -246px;
+  right: -858px;
+}
+
+.section-one-5star {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+.section-one-btn {
+  position: relative;
+  top: -100px;
+}
+
+.section-two-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 10px;
+  padding: 20px;
+}
+
+.section-two-line-break {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 10px;
+}
+
+.section-two-line {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-three-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* position: relative;
+top: 10px; */
+  width: 50%;
+}
+
+.section-four-GerardAdams, .g-absolute  {
+  position: relative;
+  /*bottom: -30px;*/
+  /* left: -200px; */
+}
+
+.section-four-gerard-adams {
+  /* padding-top: 80px; */
+  margin-left: -5px;
+}
+
+.section-five-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* position: relative;
+top: 30px; */
+}
+
+.section-five-btn {
+  top: 30px;
+  /* top: 60px;
+right:-40%; */
+}
+
+.section-six-ChefEliott {
+  position: relative;
+  bottom: -30px;
+}
+
+.section-six-5star {
+  position: relative;
+  bottom: -50px;
+  left: -10px;
+  padding-top: 20px;
+}
+
+.section-six-chef-eliott {
+  position: relative;
+  right: -15px;
+}
+
+.section-seven-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* position: relative;
+top: -15px;
+width: 50%;
+padding: 20px; */
+  margin-bottom: 30px;
+}
+
+.section-seven-btn {
+  margin-top: 20px;
+}
+
+.btn:hover,
+.btn-large:hover {
+  background-color: #739b93 !important;
+}
+
+.section-donny {
+  /*position: absolute;*/
+  /*right: 0;*/
+  /*  height: 88%;*/
+  /*width: auto;*/
+  /*max-width: 421px;*/
+  /*bottom: 0;*/
+  position: absolute;
+  right: 0;
+  height: auto;
+  /* width: auto; */
+  max-width: 50%;
+  float: right;
+  bottom: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .f-25,
+  .your-invited-font-1,
+  .your-invited-font-2,
+  .future-fownders-font,
+  .section-one-font-2,
+  .section-one-font-3 {
+    font-size: calc(100% + 1.24vw) !important;
+    /*font-size: 16px !important;*/
+    line-height: 140% !important;
+    text-align: center !important;
+  }
+
+  .bg1-mobile {
+    position: sticky;
+    bottom: 0;
+    top: 100%;
+  }
+
+  .bg-2{
+    padding:8% 0 !important;
+  }
+
+  .bg2, .bg-3, .bg-5, .bg-7{
+    padding:12% 0 !important;
+  }
+
+  .bg-1, .bg-4, .bg-d{
+    padding-top:12% !important;
+  }
+
+  .section-one-font-1 {
+    font-size: calc(100% + 1.64vw) !important;
+    line-height: 110%;
+  }
+
+  .f-22 {
+    font-size: calc(100% + 0.56vw) !important;
+    line-height: 140%;
+  }
+
+  .your-invited-font-1,
+  .your-invited-font-2,
+  .future-fownders-font,
+  .gerard-eliott-bio-font {
+    text-align: center !important;
+  }
+
+  .section-six-chef-eliott {
+    position: relative;
+    top: 0 !important;
+    right: 0 !important;
+  }
+
+  .bb-divider{
+    max-height: 100px !important;
+  }
+
+  .bg-1 {
+    position: relative;
+    background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-six-BG6.png") !important;
+    min-height: 200px !important;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+  }
+
+  .d-absolute {
+    bottom: -5px !important;
+  }
+
+  body{
+    -webkit-overflow-scrolling: touch !important;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .your-invited-font-1,
+  .your-invited-font-2,
+  .future-fownders-font,
+  .section-one-font-2,
+  .section-one-font-3 {
+    font-size: 25px;
+    line-height: 160%;
+  }
+}
+
+
+@media only screen and (min-width: 600px) and (max-width: 992px){
+  .ipad-view{
+    max-height:500px !important;
+  }
+}
+

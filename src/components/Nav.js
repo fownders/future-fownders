@@ -7,6 +7,7 @@ import About from './About';
 import WhyFutureFownders from './WhyFutureFownders';
 import OurWork from './OurWork';
 import Events from './Events';
+import BreakingBread from './BreakingBread';
 
 // const Nav = () => (
 class Nav extends Component {
@@ -57,6 +58,9 @@ class Nav extends Component {
                                         <img  alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </li>
+                                <li className="hide">
+                                    <Link to="/breakingbread">Breaking Bread</Link>
+                                </li>
                             </ul>
                             <ul className="side-nav" id="mobile-demo">
                                 <li>
@@ -88,6 +92,7 @@ class Nav extends Component {
                     <Route path="/about" component={About} />
                     <Route path="/whyfuturefownders" component={WhyFutureFownders} />
                     <Route path="/Events" component={Events} />
+                    <Route path="/breakingbread" component={BreakingBread} />
                     {/*<Route path="/topics" component={Topics} />*/}
                 </div>
             </Router>
