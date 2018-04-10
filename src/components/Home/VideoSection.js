@@ -50,7 +50,7 @@ class VideoSection extends Component {
                                         </div>
                                     </div>
                                     <div id="videocontainer" className="video-container">
-                                        <iframe id="videoplayer" title="Newark East Side High" width="853" height="480" src="https://www.youtube.com/embed/8r6OyGO0mOg?ecver=2" frameborder="0" allowfullscreen></iframe>
+                                        <iframe id="videoplayer" title="Newark East Side High" width="853" height="480" src="https://www.youtube.com/embed/8r6OyGO0mOg?ecver=2" frameBorder="0" allowFullScreen></iframe>
                                     </div>
                                 </div>
                             </div>

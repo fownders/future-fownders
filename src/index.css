@@ -197,6 +197,10 @@ nav ul a:hover {
   color:#369FF4 !important;
 }
 
+footer p{
+  color: #999999 !important;
+}
+
 .blue-hr {
   height: 1px;
   border-top: 1px solid #369FF4;
@@ -212,6 +216,10 @@ nav ul a:hover {
 
 .bold{
   font-weight: bolder !important;
+}
+
+.uppercase{
+  text-transform: uppercase !important;
 }
 
 .p0{
@@ -331,7 +339,7 @@ nav ul a:hover {
 }
 
 footer{
-  padding: 30px 0 20px 0 !important;
+  padding: 40px 0 15px 0 !important;
   background-color: #EDEDED !important;
 }
 

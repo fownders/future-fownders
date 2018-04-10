@@ -4,9 +4,9 @@ import 'materialize-css/dist/js/materialize.js';
 
 class WhySectionTwo extends Component {
 
-    constructor(){
-        super();
-    }
+    // constructor(){
+    //     super();
+    // }
 
     componentDidMount() {
         $(document).ready(function(){
@@ -22,7 +22,6 @@ class WhySectionTwo extends Component {
         $('#play-video').on('click', function(ev) {
             $("#videoplayer")[0].src += "&autoplay=1";
             ev.preventDefault();
-
         });
     }
 
