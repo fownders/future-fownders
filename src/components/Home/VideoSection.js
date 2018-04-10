@@ -18,7 +18,7 @@ class VideoSection extends Component {
 
         $('#stop-video').on('click', function(ev) {
             // $("#videocontainer").fadeOut(200);
-            $("#videoplayer").attr("src", 'https://www.youtube.com/embed/YulxXtu2YVI?rel=0&amp;ecver=2');
+            $("#videoplayer").attr("src", 'https://www.youtube.com/embed/8r6OyGO0mOg?ecver=2');
             ev.preventDefault();
 
         });
