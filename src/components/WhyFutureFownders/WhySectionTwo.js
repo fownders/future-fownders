@@ -2,9 +2,6 @@ import React, {Component} from 'react';
 import $ from 'jquery';
 import 'materialize-css/dist/js/materialize.js';
 
-// const VideoSection = () => {
-//     return (
-
 class WhySectionTwo extends Component {
 
     constructor(){
@@ -20,7 +17,6 @@ class WhySectionTwo extends Component {
             // $("#videocontainer").fadeOut(200);
             $("#videoplayer").attr("src", 'https://www.youtube.com/embed/YulxXtu2YVI?rel=0&amp;ecver=2');
             ev.preventDefault();
-
         });
 
         $('#play-video').on('click', function(ev) {
@@ -33,9 +29,6 @@ class WhySectionTwo extends Component {
     render() {
 
         return (
-
-// const WhySectionTwo = () => {
-//     return (
 
             <section className="bg why-bg2 valign-wrapper">
                 <div className="container">
@@ -53,7 +46,7 @@ class WhySectionTwo extends Component {
                                         </div>
                                     </div>
                                     <div className="video-container">
-                                        <iframe id="videoplayer" title="Fownders Toy Drive" width="853" height="480" src="https://www.youtube.com/embed/YulxXtu2YVI?rel=0&amp;ecver=2" frameborder="0" allowfullscreen></iframe>
+                                        <iframe id="videoplayer" title="Fownders Toy Drive" width="853" height="480" src="https://www.youtube.com/embed/YulxXtu2YVI?rel=0&amp;ecver=2" frameBorder="0" allowFullScreen></iframe>
                                     </div>
                                 </div>
                             </div>

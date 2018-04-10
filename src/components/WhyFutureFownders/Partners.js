@@ -7,7 +7,7 @@ const Partners = () => {
             <div className="container ptb-6">
                 <div className="row mb0">
                     <div className="col s12 m12 l10 offset-l1 center-align">
-                        <h2 className="white-text">Future Fownders Partners</h2>
+                        <h2 className="white-text mt0">Future Fownders Partners</h2>
                         <p className="white-text center">The program includes educational content, exclusive influencer appearances and hands-on mentorship from top People’s Prep Charter, Central High School and secured.</p>
                         <h2 className="white-text">Schools with our program:</h2>
                         <br />
