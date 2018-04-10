@@ -14,16 +14,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WhySectionTwo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/WhySectionTwo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Partners.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/Partners.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="233" lean-forward="true" selection-start-line="0" selection-start-column="233" selection-end-line="0" selection-end-column="233" />
+              <caret line="0" column="297" lean-forward="false" selection-start-line="0" selection-start-column="297" selection-end-line="0" selection-end-column="297" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,9 +80,9 @@
             <state relative-caret-position="225">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <marker date="1523361754241" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
-                <marker date="1523361754241" expanded="true" signature="79:195" ph="[...]" />
-                <marker date="1523361754241" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
+                <marker date="1523362014632" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
+                <marker date="1523362014632" expanded="true" signature="79:195" ph="[...]" />
+                <marker date="1523362014632" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -550,12 +550,12 @@
       <workItem from="1522179492471" duration="8625000" />
       <workItem from="1522229930192" duration="15309000" />
       <workItem from="1523289958057" duration="9848000" />
-      <workItem from="1523317825304" duration="6459000" />
+      <workItem from="1523317825304" duration="6595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156446000" />
+    <option name="totallyTimeSpent" value="156582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="22" width="1248" height="874" extended-state="0" />
@@ -591,7 +591,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/silver-package.html" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/assets/scripts/main.js" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/future-fownders/dist/styles/font-awesome.css" />
     <entry file="file://$PROJECT_DIR$/gold-package.html" />
@@ -845,9 +844,9 @@
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1523361754241" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
-            <marker date="1523361754241" expanded="true" signature="79:195" ph="[...]" />
-            <marker date="1523361754241" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
+            <marker date="1523362014632" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
+            <marker date="1523362014632" expanded="true" signature="79:195" ph="[...]" />
+            <marker date="1523362014632" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -876,7 +875,15 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="233" lean-forward="true" selection-start-line="0" selection-start-column="233" selection-end-line="0" selection-end-column="233" />
+          <caret line="0" column="297" lean-forward="false" selection-start-line="0" selection-start-column="297" selection-end-line="0" selection-end-column="297" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
