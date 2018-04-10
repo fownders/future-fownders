@@ -4,7 +4,7 @@
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/OurWork/Team.js" afterPath="$PROJECT_DIR$/src/components/OurWork/Team.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js" afterPath="$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,8 +59,18 @@
       <file leaf-file-name="Team.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/OurWork/Team.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="480">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Newark.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/components/WhyFutureFownders/WhyHeader.js" />
         <option value="$PROJECT_DIR$/src/components/WhyFutureFownders/ImmersiveProgram.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js" />
         <option value="$PROJECT_DIR$/src/components/BreakingBread.js" />
         <option value="$PROJECT_DIR$/src/components/Events.js" />
         <option value="$PROJECT_DIR$/src/components/BreakingBread/Header.js" />
@@ -164,6 +173,7 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Home/VideoSection.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js" />
         <option value="$PROJECT_DIR$/src/components/OurWork/Team.js" />
       </list>
     </option>
@@ -487,12 +497,12 @@
       <workItem from="1522179492471" duration="8625000" />
       <workItem from="1522229930192" duration="15309000" />
       <workItem from="1523289958057" duration="9848000" />
-      <workItem from="1523317825304" duration="8354000" />
+      <workItem from="1523317825304" duration="9100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158341000" />
+    <option name="totallyTimeSpent" value="159087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="22" width="1248" height="874" extended-state="0" />
@@ -612,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -728,9 +730,9 @@
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1523363533255" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
-            <marker date="1523363533255" expanded="true" signature="79:195" ph="[...]" />
-            <marker date="1523363533255" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
+            <marker date="1523364638009" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
+            <marker date="1523364638009" expanded="true" signature="79:195" ph="[...]" />
+            <marker date="1523364638009" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -853,10 +855,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/OurWork/Team.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="480">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding />
         </state>
       </provider>
