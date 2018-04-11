@@ -3,7 +3,7 @@ import React from 'react';
 const Partners = () => {
     return (
 
-        <section className="bg why-bg3">
+        <section className="brand-dark-grey">
             <div className="container ptb-6">
                 <div className="row mb0">
                     <div className="col s12 m12 l10 offset-l1 center-align">

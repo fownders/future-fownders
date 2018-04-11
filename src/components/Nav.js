@@ -44,10 +44,10 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/ourwork">Our Work</Link>
                                 </li>
-                                <li className="hide">
+                                <li>
                                     <Link to="/about">About Us</Link>
                                 </li>
-                                <li className="hide">
+                                <li>
                                     <Link to="/events">Events</Link>
                                 </li>
                                 <li>
@@ -66,7 +66,7 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/whyfuturefownders">Why Future Fownders</Link>
                                 </li>
-                                <li className="hide">
+                                <li>
                                     <Link to="/ourwork">Our Work</Link>
                                 </li>
                                 <li className="hide">

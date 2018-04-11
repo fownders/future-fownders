@@ -8,7 +8,6 @@ const Team = () => {
                     <div className="col s12">
                         <h2 className="black-text mt0">Meet Our Team</h2>
                     </div>
-                    {/*<div className="col s12 m12 l10 offset-l1">*/}
                     <div className="col s12 m4">
                         <img className="responsive-img" alt="Amanda Johnson Fownders Director" src="https://fownders.s3.us-east-2.amazonaws.com/amanda.png" />
                     </div>
@@ -17,8 +16,7 @@ const Team = () => {
                         <p className="black-text mt0">Director</p>
                         <p className="black-text">Amanda is the Director of Future Fownders. Since children are our future, we believe that they need to be ready for anything that life throws at them. Throw the Future Fownders program, we help young in our community develop the wisdom to overcome future obstacles that come their way.</p>
                     </div>
-                    </div>
-                {/*</div>*/}
+                </div>
                 <div className="row mb0">
                     <div className="col s12 m4">
                         <img className="responsive-img" alt="Jade Jordan Fownders Operations Assistant" src="https://fownders.s3.us-east-2.amazonaws.com/jade.png" />

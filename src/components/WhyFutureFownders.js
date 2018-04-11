@@ -2,8 +2,6 @@ import React from "react";
 import WhyHeader from './WhyFutureFownders/WhyHeader';
 import WhySectionTwo from './WhyFutureFownders/WhySectionTwo';
 import Newark from './WhyFutureFownders/Newark';
-import ImmersiveProgram from './WhyFutureFownders/ImmersiveProgram';
-import Partners from './WhyFutureFownders/Partners';
 
 const WhyFutureFownders = () => (
 
@@ -11,8 +9,6 @@ const WhyFutureFownders = () => (
         <WhyHeader/>
         <WhySectionTwo/>
         <Newark/>
-        <ImmersiveProgram/>
-        <Partners/>
     </div>
 
 );

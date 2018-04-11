@@ -1,12 +1,14 @@
 import React from "react";
-import Header from './Home/Header';
+import Header from './AboutUs/Header';
+import Partners from './AboutUs/Partners';
+import ImmersiveProgram from './AboutUs/ImmersiveProgram';
 
 const About = () => (
 
     <div>
-
         <Header />
-        <h2>About</h2>
+        <ImmersiveProgram />
+        <Partners />
     </div>
 
 );

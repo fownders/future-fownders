@@ -1,12 +1,12 @@
 import React from "react";
-import Header from './Home/Header';
+import EventsHeader from './Events/Header';
+import UpcomingEvents from './Events/UpcomingEvents';
 
 const Events = () => (
 
     <div>
-
-        <Header />
-        <h2>Events</h2>
+        <EventsHeader />
+        <UpcomingEvents />
     </div>
 
 );
