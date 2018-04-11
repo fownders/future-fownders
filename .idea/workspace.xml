@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f521517f-c01c-433e-a31e-f0afdd6a4c3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/About.js" afterPath="$PROJECT_DIR$/src/components/About.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Events.js" afterPath="$PROJECT_DIR$/src/components/Events.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Nav.js" afterPath="$PROJECT_DIR$/src/components/Nav.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/OurWork/Team.js" afterPath="$PROJECT_DIR$/src/components/OurWork/Team.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WhyFutureFownders.js" afterPath="$PROJECT_DIR$/src/components/WhyFutureFownders.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js" afterPath="$PROJECT_DIR$/src/components/WhyFutureFownders/Newark.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WhyFutureFownders/Partners.js" afterPath="$PROJECT_DIR$/src/components/WhyFutureFownders/Partners.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
@@ -78,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/About.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -90,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/AboutUs/ImmersiveProgram.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -100,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/ImmersiveProgram.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="30" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="32" />
+              <caret line="30" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -116,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+            <state relative-caret-position="310">
+              <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -219,13 +211,13 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Events/UpcomingEvents.js" />
         <option value="$PROJECT_DIR$/src/components/Events/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/Nav.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/Header.js" />
         <option value="$PROJECT_DIR$/src/components/About.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/Partners.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/ImmersiveProgram.js" />
         <option value="$PROJECT_DIR$/src/components/WhyFutureFownders.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/Nav.js" />
       </list>
     </option>
   </component>
@@ -548,12 +540,12 @@
       <workItem from="1522179492471" duration="8625000" />
       <workItem from="1522229930192" duration="15309000" />
       <workItem from="1523289958057" duration="9848000" />
-      <workItem from="1523317825304" duration="14907000" />
+      <workItem from="1523317825304" duration="15048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164894000" />
+    <option name="totallyTimeSpent" value="165035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="22" width="1248" height="874" extended-state="0" />
@@ -697,9 +689,9 @@
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1523385773055" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
-            <marker date="1523385773055" expanded="true" signature="79:195" ph="[...]" />
-            <marker date="1523385773055" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
+            <marker date="1523430832136" expanded="true" signature="0:316" ph="{&quot;name&quot;: &quot;Future Fownders Website&quot;...}" />
+            <marker date="1523430832136" expanded="true" signature="79:195" ph="[...]" />
+            <marker date="1523430832136" expanded="true" signature="85:191" ph="{&quot;src&quot;: &quot;favicon.ico&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -821,7 +813,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -882,14 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/Partners.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -901,7 +885,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/WhyFutureFownders/ImmersiveProgram.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="32" />
+          <caret line="30" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -909,7 +893,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/About.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -927,7 +911,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/AboutUs/ImmersiveProgram.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -954,6 +938,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="288" column="80" lean-forward="false" selection-start-line="288" selection-start-column="80" selection-end-line="288" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
           <folding />
         </state>
       </provider>

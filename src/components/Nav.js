@@ -47,7 +47,7 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/about">About Us</Link>
                                 </li>
-                                <li>
+                                <li className="hide">
                                     <Link to="/events">Events</Link>
                                 </li>
                                 <li>
@@ -69,7 +69,7 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/ourwork">Our Work</Link>
                                 </li>
-                                <li className="hide">
+                                <li>
                                     <Link to="/about">About Us</Link>
                                 </li>
                                 <li className="hide">
