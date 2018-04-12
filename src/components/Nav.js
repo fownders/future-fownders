@@ -1,5 +1,6 @@
-import React, {Component} from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+// import 'babel-polyfill';
+import React, {Component, View, Animated, StyleSheet} from 'react';
+import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 import $ from 'jquery';
 import 'materialize-css/dist/js/materialize.js';
 import Home from './Home';
@@ -16,6 +17,26 @@ class Nav extends Component {
     //     this.goToEvents= this.goToEvents.bind(this);
     // }
 
+    constructor (props) {
+        super();
+
+        this.state = {
+            NavVisible : false,
+        };
+        console.log(this.state);
+
+        //     showNavigationBar: false,
+        //
+        //         getSceneClass() {
+        //     return require('./HomeScene');
+        // },
+        //
+        //     getTitle() {
+        //     return 'Home';
+        // },
+
+    }
+
     componentDidMount() {
         $(document).ready(function(){
             $('.button-collapse').sideNav();
@@ -25,6 +46,7 @@ class Nav extends Component {
     render() {
 
         return (
+
             <Router className="transparent z-depth-0">
                 <div className="transparent z-depth-0">
                     <nav className="transparent z-depth-0">
@@ -92,7 +114,9 @@ class Nav extends Component {
                     <Route path="/about" component={About} />
                     <Route path="/whyfuturefownders" component={WhyFutureFownders} />
                     <Route path="/Events" component={Events} />
-                    <Route path="/breakingbread" component={BreakingBread} />
+                    <Switch>
+                        <Route path="/breakingbread" component={BreakingBread} />
+                    </Switch>
                     {/*<Route path="/topics" component={Topics} />*/}
                 </div>
             </Router>
