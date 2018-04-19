@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
-/*@font-face {*/
-  /*font-family: ‘Baskerville’;*/
-  /*src: url('https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/Baskerville.ttc') format('truetype');*/
-/*}*/
-
 body {
   margin: 0;
   padding: 0;
@@ -41,12 +36,19 @@ p{
 }
 
 .btn.transparent{
-  font-size: 14px !important;
+  font-family: 'Lato',sans-serif !important;
+  font-size: 12px !important;
   background-color: transparent !important;
   border: solid 1px #ffffff;
   border-radius: 6px !important;
-  padding: 0 1rem;
+  padding: 0 .6rem;
   margin-left: 12px;
+  height: 1.8rem;
+  line-height: 1.8rem;
+}
+
+nav li:last-child{
+  padding-top: 1px;
 }
 
 .btn i{
@@ -294,6 +296,11 @@ nav ul a:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, .2)),url('https://fownders.s3.us-east-2.amazonaws.com/ff-events-header.jpg');
   height: 68vh;
   background-position: bottom !important;
+}
+
+.sponsor-header-bg{
+  background-image: linear-gradient(to right, rgba(0, 0, 0, .8), rgba(0, 0, 0, 0)),url('https://fownders.s3.us-east-2.amazonaws.com/ff-aboutus-header.jpg');
+  height: 68vh;
 }
 
 footer{

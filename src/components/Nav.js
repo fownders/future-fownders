@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import $ from 'jquery';
 import 'materialize-css/dist/js/materialize.js';
 import Home from './Home';
@@ -7,15 +7,13 @@ import About from './About';
 import WhyFutureFownders from './WhyFutureFownders';
 import OurWork from './OurWork';
 import Events from './Events';
-import BreakingBread from './BreakingBread';
+import Sponsor from './Sponsor';
 
-// const Nav = () => (
 class Nav extends Component {
 
     // constructor () {
     //     super();
     // }
-
     componentDidMount() {
         $(document).ready(function(){
             $('.button-collapse').sideNav();
@@ -45,7 +43,7 @@ class Nav extends Component {
                             {/*<a href="#!" className="brand-logo left">*/}
                                 <Link className="brand-logo left" to="/"><img className="logo responsive-img left" alt="Future Fownders" src="https://fownders.s3.us-east-2.amazonaws.com/futurefownders-logo-white-large.png" width={200}/></Link>
                             {/*</a>*/}
-                            <a href="#" data-activates="mobile-demo" className="button-collapse right"><i className="material-icons white-text">menu</i></a>
+                            <a href="#" role="button" data-activates="mobile-demo" className="button-collapse right"><i className="material-icons white-text">menu</i></a>
 
                             <ul className="right hide-on-med-and-down black-text">
                                 {/*<li>*/}
@@ -72,7 +70,7 @@ class Nav extends Component {
                                     </form>
                                 </li>
                                 <li className="hide">
-                                    <Link to="/breakingbread">Breaking Bread</Link>
+                                    <Link className="btn transparent" to="/sponsor">Sponsor</Link>
                                 </li>
                             </ul>
                             <ul className="side-nav" id="mobile-demo">
@@ -88,6 +86,9 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/events">Events</Link>
                                 </li>
+                                <li className="hide">
+                                    <Link to="/events">Events</Link>
+                                </li>
                                 <li>
                                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                         <input type="hidden" name="cmd" value="_s-xclick"/>
@@ -95,6 +96,9 @@ class Nav extends Component {
                                         <input type="submit" value="DONATE" name="submit" title="PayPal - The safer, easier way to pay online!" className="btn transparent"/>
                                         <img  alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
+                                </li>
+                                <li className="hide">
+                                    <Link className="btn transparent" to="/sponsor">Sponsor</Link>
                                 </li>
                             </ul>
                         </div>
@@ -105,10 +109,7 @@ class Nav extends Component {
                     <Route path="/about" component={About} />
                     <Route path="/whyfuturefownders" component={WhyFutureFownders} />
                     <Route path="/Events" component={Events} />
-                    <Switch>
-                        <Route path="/breakingbread" component={BreakingBread} />
-                    </Switch>
-                    {/*<Route path="/topics" component={Topics} />*/}
+                    <Route path="/Sponsor" component={Sponsor} />
                 </div>
             </Router>
         );

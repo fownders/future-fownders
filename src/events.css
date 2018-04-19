@@ -264,25 +264,6 @@
     clear: both;
 }
 
-/*.bg-6 {*/
-    /*background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-six-BG6.png");*/
-    /*background-position: center;*/
-    /*background-size: cover;*/
-    /*background-repeat: no-repeat;*/
-    /*height: auto;*/
-/*}*/
-
-/*.bg-7 {*/
-    /*background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-joinus-Background.png");*/
-    /*background-position: center;*/
-    /*background-size: cover;*/
-    /*background-repeat: no-repeat;*/
-    /*height: auto;*/
-    /*position: relative;*/
-    /*z-index: 10;*/
-    /*padding: 4% 0;*/
-/*}*/
-
 .footer{
     background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-joinus-Background.png");
 }
@@ -428,16 +409,6 @@
     img.title{
         max-width: 80%;
     }
-
-    /*.header.relative-figure{*/
-        /*position: relative;*/
-        /*z-index: 1;*/
-        /*min-height: 550px !important;*/
-    /*}*/
-
-    /*.header .figure-1{*/
-        /*left: 9%;*/
-    /*}*/
 
     .relative-figure .absolute-figure, .absolute-figure{
         position: absolute !important;

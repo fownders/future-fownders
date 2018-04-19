@@ -1,13 +1,13 @@
 import React from 'react';
 
-const EventsHeader = () => {
+const SponsorHeader = () => {
     return (
 
-        <section className="bg events-header-bg valign-wrapper">
+        <section className="bg sponsor-header-bg valign-wrapper">
             <div className="container">
                 <div className="row">
                     <div className="col s12 center-align">
-                        <h2 className="white-text mb0"><br />Upcoming Events</h2>
+                        <h2 className="white-text mb0"><br />Sponsor</h2>
                         <br/>
                     </div>
                 </div>
@@ -16,4 +16,4 @@ const EventsHeader = () => {
     );
 }
 
-export default EventsHeader;
+export default SponsorHeader;
