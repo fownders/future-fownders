@@ -14,17 +14,20 @@ const Partners = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col s6 m3 center-align">
+                    <div className="col s6 m2 offset-m1 center-align">
                         <img className="responsive-img" alt="Prince of Peace" width={180} src="http://poprobots.com/wp-content/uploads/2013/11/POPCS.png" />
                     </div>
-                    <div className="col s6 m3 center-align">
+                    <div className="col s6 m2 center-align">
                         <img className="responsive-img" alt="Devils" width={130} src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/1200px-New_Jersey_Devils_logo.svg.png" />
                     </div>
-                    <div className="col s6 m3 center-align">
+                    <div className="col s6 m2 center-align">
                         <img className="responsive-img" alt="Schools That Can" src="http://www.schoolsthatcan.org/wp-content/uploads/2016/03/STC-Logo-Inverted.png" />
                     </div>
-                    <div className="col s6 m3 center-align">
+                    <div className="col s6 m2 center-align">
                         <img className="responsive-img" alt="East Side Red Raiders" src="http://content.nps.k12.nj.us/wp-content/uploads/sites/58/2014/08/EAS.png" />
+                    </div>
+                    <div className="col s6 m2 center-align">
+                        <img className="responsive-img" src="https://fownders.s3.us-east-2.amazonaws.com/ff-partner-platinum-white.png"/>
                     </div>
                 </div>
                 <div className="row mb0">

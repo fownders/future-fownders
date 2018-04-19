@@ -9,7 +9,7 @@ class Footer extends Component {
 
         return (
 
-            <div>
+            <div className="main-footer" id="footer-none">
                 <footer className="page-footer grey lighten-2 pb-8">
                     <div className="container">
                         <div className="row">

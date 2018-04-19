@@ -6,7 +6,6 @@ const FigureRight = () => {
         <section className="figure-right bg pt-4 relative-conta">
             <div className="container breakingbread">
                 <div className="row mb0">
-                    {/*<div className="relative-container">*/}
                     <div className="col s12 m12 l6 center-align">
                         <div className="row m0">
                             <br className="hide-on-med-and-down" />
@@ -28,7 +27,6 @@ const FigureRight = () => {
                         {/*<img className="figure-six responsive-img  ipad-view" src="https://fownders.s3.us-east-2.amazonaws.com/breakingbread-h-haile-header.png.png" />*/}
                     </div>
                 </div>
-            {/*</div>*/}
             </div>
         </section>
     );

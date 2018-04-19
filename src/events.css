@@ -1,19 +1,7 @@
 /*BREAKING BREAD CSS*/
 
-/*section{*/
-    /*position: relative;*/
-/*}*/
-
-.header.bg{
-    z-index: 1000 !important;
-}
-
 .join-us.bg{
     z-index: 2000 !important;
-}
-
-footer{
-    display: none;
 }
 
 .breakingbread p{
@@ -67,7 +55,7 @@ footer{
     font-weight: 700 !important;
 }
 
-.join-us p {
+.join-us p, .footer.breakingbread p {
     color: #7D7D7D;
 }
 
@@ -75,8 +63,15 @@ footer{
     margin: 20px 0;
 }
 
-.join-us, .youre-invited{
+.join-us, .youre-invited, .venue.bg{
     border-top: 1px solid #7D7D7D;
+}
+
+.venue.bg p{
+    color: #634949;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    text-align: center !important;
 }
 
 .youre-invited p{
@@ -94,16 +89,10 @@ footer{
     line-height: 180%;
 }
 
-.figure-left p, .figure-right p, .section-7 p{
-    font-size: 15px !important;
+.figure-left p, .figure-right p, .future-fownders p{
+    font-size: 16px !important;
     font-weight: 500 !important;
     line-height: 180%;
-    text-align: left !important;
-}
-
-.footer.breakingbread p{
-    color: rgb(28,28,28);
-    font-weight: 500;
 }
 
 .pb0{
@@ -124,6 +113,10 @@ footer{
     padding-top: 4%;
 }
 
+.pb-4{
+    padding-bottom: 4%;
+}
+
 .mt0{
     margin-top: 0 !important;
 }
@@ -138,14 +131,6 @@ footer{
         text-align: center !important;
     }
 }
-
-/*html,*/
-/*body {*/
-/*overflow-x: hidden;*/
-/*height: 100%;*/
-/*padding: 0;*/
-/*margin: 0;*/
-/*}*/
 
 .flex-container{
     display: flex !important;
@@ -175,6 +160,7 @@ footer{
     position: relative;
     bottom: 0 !important;
 }
+
 .vertical-align-container {
     height: 100%;
 }
@@ -214,36 +200,26 @@ footer{
 
 .header.bg {
     background-image: url("https://fownders.s3.us-east-2.amazonaws.com/ff-breakingbread-haile.png");
-    height: auto;
-    min-height: 600px;
-    padding-top: 4%;
+    height: 100%;
+    min-height: 500px;
+    padding-bottom: 3%;
+    /*padding-top: 4%;*/
     z-index: 2;
 }
 
 .join-us.bg {
     background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-joinus-Background.png");
     height: auto;
-    margin-top: -4%;
     z-index: 3;
 }
 
-/*.bg-1 {*/
-    /*background-image: url("https://fownders.s3.us-east-2.amazonaws.com/ff-breakingbread-haile-header.png");*/
-    /*min-height: 600px;*/
-    /*height: auto;*/
+.venue.bg {
+    background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-venue-bg.jpg");
+    height: auto;
+    /*min-height: 500px;*/
     /*padding-top: 4%;*/
-    /*overflow:auto;*/
-/*}*/
-
-/*.bg-1-bottom-section {*/
-    /*background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-one-bottom.png");*/
-    /*background-position: center;*/
-    /*background-size: cover;*/
-    /*background-repeat: no-repeat;*/
-    /*min-height: 385px;*/
-    /*height: auto;*/
-    /*overflow: auto;*/
-/*}*/
+    z-index: 2;
+}
 
 .youre-invited {
     /*background-image: url("https://cdn2.hubspot.net/hubfs/3357911/Future%20Fownders/Breaking%20Bread/section-two-BG2.png");*/
@@ -251,6 +227,9 @@ footer{
     min-height: 300px;
     height: auto;
     padding: 4% 0;
+    z-index: 4;
+    position: relative;
+    margin-top: -4%;
 }
 
 .future-fownders {
@@ -293,17 +272,16 @@ footer{
     /*height: auto;*/
 /*}*/
 
-.bg-7 {
-    background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-joinus-Background.png");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: auto;
-    /*overflow: auto;*/
-    position: relative;
-    z-index: 10;
-    padding: 4% 0;
-}
+/*.bg-7 {*/
+    /*background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-joinus-Background.png");*/
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*height: auto;*/
+    /*position: relative;*/
+    /*z-index: 10;*/
+    /*padding: 4% 0;*/
+/*}*/
 
 .footer{
     background-image: url("https://fownders.s3.us-east-2.amazonaws.com/bb-haile-joinus-Background.png");
@@ -348,9 +326,38 @@ footer{
 }
 
 @media screen and (max-width: 600px) {
-    .f-25, .breakingbread p {
+    body{
+        -webkit-overflow-scrolling: touch !important;
+    }
+
+    .header.bg {
+        /*position: relative;*/
+        /*background-image: url("https://fownders.s3.us-east-2.amazonaws.com/ff-breakingbread-haile-header.png") !important;*/
+        min-height: 260px !important;
+        /*top: 0;*/
+        /*bottom: 0;*/
+        height: 100%;
+    }
+
+    .venue.bg{
+        height: 100% !important;
+    }
+
+    .f-25,
+    .youre-invited p,
+    .join-us p {
         font-size: calc(100% + 1.24vw) !important;
         line-height: 140% !important;
+        text-align: center !important;
+    }
+
+    .f-22,
+    .future-fownders p,
+    .figure-left p,
+    .figure-right p {
+        font-size: calc(100% + .56vw) !important;
+        line-height: 140% !important;
+        letter-spacing: .5px !important;
         text-align: center !important;
     }
 
@@ -359,67 +366,31 @@ footer{
         line-height: 110%;
     }
 
-
-    .f-22, .future-fownders p {
-        font-size: calc(100% + 0.56vw) !important;
-        line-height: 140%;
-    }
-
     .relative-figure {
         min-height: auto !important;
     }
 
-    /*.bg1-mobile {*/
-        /*position: sticky;*/
-        /*bottom: 0;*/
-        /*top: 100%;*/
-    /*}*/
+    .ff-logo{
+        max-width: 25% !important;
+    }
 
-
-    /*.bg2, .bg-3, .bg-5, .bg-7{*/
-        /*padding:12% 0 !important;*/
-    /*}*/
-
-    /*.bg-1, .bg-4, .bg-d{*/
-        /*padding-top:12% !important;*/
-    /*}*/
-
-
-    .your-invited-font-1,
-    .your-invited-font-2,
-    .future-fownders-font,
-    .gerard-eliott-bio-font {
-        text-align: center !important;
+    .absolute-figure img{
+        max-width: 75% !important;
     }
 
     .bb-divider{
         max-height: 100px !important;
     }
+}
 
-    .header.bg {
-        position: relative;
-        background-image: url("https://fownders.s3.us-east-2.amazonaws.com/ff-breakingbread-haile-header.png") !important;
-        min-height: 260px !important;
-        top: 0;
-        bottom: 0;
-        height: 100%;
-    }
-
-    body{
-        -webkit-overflow-scrolling: touch !important;
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+    .header.bg{
+        min-height: 445px !important;
     }
 }
 
 @media only screen and (max-width: 993px) {
-    /*.relative-figure{*/
-        /*min-height: 50px;*/
-    /*}*/
-
-    /*.header.relative-figure{*/
-        /*min-height: 50px;*/
-    /*}*/
-
-    .figure-left p, .figure-right p, .section-7 p {
+    .figure-left p, .figure-right p {
         text-align: left !important;
     }
 
@@ -446,18 +417,27 @@ footer{
     .relative-figure{
         position: relative;
         z-index: 1;
-        min-height: 635px !important;
+        /*min-height: 575px !important;*/
     }
 
-    .header.relative-figure{
-        position: relative;
-        z-index: 1;
-        min-height: 550px !important;
+    img.header-figures{
+        max-width: 80% !important;
+        position: sticky;
     }
 
-    .header .figure-1{
-        left: 9%;
+    img.title{
+        max-width: 80%;
     }
+
+    /*.header.relative-figure{*/
+        /*position: relative;*/
+        /*z-index: 1;*/
+        /*min-height: 550px !important;*/
+    /*}*/
+
+    /*.header .figure-1{*/
+        /*left: 9%;*/
+    /*}*/
 
     .relative-figure .absolute-figure, .absolute-figure{
         position: absolute !important;

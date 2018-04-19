@@ -1,5 +1,4 @@
-// import 'babel-polyfill';
-import React, {Component, View, Animated, StyleSheet} from 'react';
+import React, {Component} from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 import $ from 'jquery';
 import 'materialize-css/dist/js/materialize.js';
@@ -12,34 +11,26 @@ import BreakingBread from './BreakingBread';
 
 // const Nav = () => (
 class Nav extends Component {
-    // constructor(){
+
+    // constructor () {
     //     super();
-    //     this.goToEvents= this.goToEvents.bind(this);
     // }
-
-    constructor (props) {
-        super();
-
-        this.state = {
-            NavVisible : false,
-        };
-        console.log(this.state);
-
-        //     showNavigationBar: false,
-        //
-        //         getSceneClass() {
-        //     return require('./HomeScene');
-        // },
-        //
-        //     getTitle() {
-        //     return 'Home';
-        // },
-
-    }
 
     componentDidMount() {
         $(document).ready(function(){
             $('.button-collapse').sideNav();
+
+            function hideFooter(path){
+                path = window.location.pathname;
+
+                if (path === '/breakingbread') {
+                    console.log('true');
+                    document.getElementById("display-none").style.display = "none";
+                    document.getElementById("footer-none").style.display = "none";
+                }
+            }
+            return hideFooter();
+
         });
     }
 
@@ -49,7 +40,7 @@ class Nav extends Component {
 
             <Router className="transparent z-depth-0">
                 <div className="transparent z-depth-0">
-                    <nav className="transparent z-depth-0">
+                    <nav className="transparent z-depth-0" id="display-none">
                         <div className="nav-wrapper transparent">
                             {/*<a href="#!" className="brand-logo left">*/}
                                 <Link className="brand-logo left" to="/"><img className="logo responsive-img left" alt="Future Fownders" src="https://fownders.s3.us-east-2.amazonaws.com/futurefownders-logo-white-large.png" width={200}/></Link>
@@ -69,7 +60,7 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/about">About Us</Link>
                                 </li>
-                                <li className="hide">
+                                <li>
                                     <Link to="/events">Events</Link>
                                 </li>
                                 <li>
@@ -94,7 +85,7 @@ class Nav extends Component {
                                 <li>
                                     <Link to="/about">About Us</Link>
                                 </li>
-                                <li className="hide">
+                                <li>
                                     <Link to="/events">Events</Link>
                                 </li>
                                 <li>

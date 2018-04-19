@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SectionCTA = () => {
+const DividerCTA = () => {
     return (
 
         <section className="divider-bg bg ptb-4 relative-container">
@@ -20,5 +20,5 @@ const SectionCTA = () => {
     );
 }
 
-export default SectionCTA;
+export default DividerCTA;
 
