@@ -17,7 +17,8 @@ const Header = () => {
                 <div className="col s12 m12 l8 offset-l2">
                     <div className="container">
                         <div className="video-container">
-                            <iframe width="853" height="480" title="Breaking Bread" src="https://www.youtube.com/embed/n85fLxsLXKs" frameBorder="0" allowFullScreen></iframe>
+                            <iframe width="853" height="480" title="Breaking Bread" src="https://www.youtube.com/embed/n85fLxsLXKs?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen></iframe>
+                            {/*<iframe width="853" height="480" title="Breaking Bread" src="https://www.youtube.com/embed/n85fLxsLXKs" frameBorder="0" allowFullScreen></iframe>*/}
                         </div>
                     </div>
                 </div>

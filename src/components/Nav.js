@@ -8,6 +8,7 @@ import WhyFutureFownders from './WhyFutureFownders';
 import OurWork from './OurWork';
 import Events from './Events';
 import Sponsor from './Sponsor';
+import BreakingBread from './BreakingBread';
 
 class Nav extends Component {
 
@@ -72,6 +73,9 @@ class Nav extends Component {
                                 <li className="hide">
                                     <Link className="btn transparent" to="/sponsor">Sponsor</Link>
                                 </li>
+                                <li className="hide">
+                                    <Link className="btn transparent" to="/breakingbread">BreakingBread</Link>
+                                </li>
                             </ul>
                             <ul className="side-nav" id="mobile-demo">
                                 <li>
@@ -110,6 +114,7 @@ class Nav extends Component {
                     <Route path="/whyfuturefownders" component={WhyFutureFownders} />
                     <Route path="/Events" component={Events} />
                     <Route path="/Sponsor" component={Sponsor} />
+                    <Route path="/breakingbread" component={BreakingBread} />
                 </div>
             </Router>
         );
