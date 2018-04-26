@@ -3,6 +3,7 @@ import Header from './Home/Header';
 import HomeSectionTwo from './Home/HomeSectionTwo';
 import AboutUs from './Home/AboutUs';
 import VideoSection from './Home/VideoSection';
+import Mail from './Home/Mail';
 // import Accomplishments from './Home/Accomplishments';
 
 const Home = () => (
@@ -12,6 +13,7 @@ const Home = () => (
         <HomeSectionTwo />
         <AboutUs/>
         <VideoSection/>
+        <Mail/>
         {/*<Accomplishments/>*/}
     </div>
 
