@@ -11,9 +11,9 @@ const Home = () => (
     <div>
         <Header />
         <HomeSectionTwo />
+        <Mail/>
         <AboutUs/>
         <VideoSection/>
-        <Mail/>
         {/*<Accomplishments/>*/}
     </div>
 
