@@ -23,6 +23,10 @@ const Partners = () => {
                     <div className="col s6 m4 center-align">
                         <img className="responsive-img" alt="Rutgers CUEED" width={260} src="https://farm1.staticflickr.com/981/41831827251_e3d6fdda3a_m.jpg" />
                     </div>
+                    <div className="col s6 m4 center-align">
+                        <br className="hide-on-small-and-down"/>
+                        <img className="responsive-img" alt="Platinum Properties" width={230} src="https://fownders.s3.us-east-2.amazonaws.com/ff-partner-platinum-white.png"/>
+                    </div>
                 </div>
                 <div className="row mb0">
                     <div className="col s12 m12 l10 offset-l1 center-align">
@@ -59,10 +63,6 @@ const Partners = () => {
                     </div>
                     <div className="col s6 m4 center-align">
                         <img className="responsive-img" alt="Chancellor" width={100} src="http://static.wixstatic.com/media/6545f7_8d35132bc9df4ed7b39d5433ab5cfbfd.png/v1/fill/w_224,h_212,al_c,lg_1/6545f7_8d35132bc9df4ed7b39d5433ab5cfbfd.png" />
-                    </div>
-                    <div className="col s6 m4 center-align">
-                        <br className="hide-on-small-and-down"/>
-                        <img className="responsive-img" alt="Platinum Properties" width={230} src="https://fownders.s3.us-east-2.amazonaws.com/ff-partner-platinum-white.png"/>
                     </div>
                 </div>
                 <div className="row mb0">
